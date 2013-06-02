@@ -1,0 +1,780 @@
+25-Feb-2013 20:29:01 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_100_3_QHa.root
+25-Feb-2013 20:29:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_100_3_QHa.root
+Begin processing the 1st record. Run 1, Event 7237264, LumiSection 24129 at 25-Feb-2013 20:29:08.699 CET
+25-Feb-2013 20:29:08 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_100_3_QHa.root
+25-Feb-2013 20:29:08 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_101_3_YKK.root
+25-Feb-2013 20:29:08 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_101_3_YKK.root
+25-Feb-2013 20:29:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_101_3_YKK.root
+25-Feb-2013 20:29:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_102_6_pHA.root
+25-Feb-2013 20:29:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_102_6_pHA.root
+25-Feb-2013 20:29:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_102_6_pHA.root
+25-Feb-2013 20:29:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_103_4_Fdl.root
+25-Feb-2013 20:29:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_103_4_Fdl.root
+25-Feb-2013 20:29:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_103_4_Fdl.root
+25-Feb-2013 20:29:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_10_3_8RC.root
+25-Feb-2013 20:29:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_10_3_8RC.root
+25-Feb-2013 20:29:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_10_3_8RC.root
+25-Feb-2013 20:29:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_104_4_mMj.root
+25-Feb-2013 20:29:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_104_4_mMj.root
+25-Feb-2013 20:29:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_104_4_mMj.root
+25-Feb-2013 20:29:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_105_3_zfU.root
+25-Feb-2013 20:29:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_105_3_zfU.root
+25-Feb-2013 20:29:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_105_3_zfU.root
+25-Feb-2013 20:29:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_106_3_IpW.root
+25-Feb-2013 20:29:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_106_3_IpW.root
+25-Feb-2013 20:29:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_106_3_IpW.root
+25-Feb-2013 20:29:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_107_3_sba.root
+25-Feb-2013 20:29:57 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_107_3_sba.root
+25-Feb-2013 20:30:02 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_107_3_sba.root
+25-Feb-2013 20:30:02 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_108_3_1ZG.root
+25-Feb-2013 20:30:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_108_3_1ZG.root
+25-Feb-2013 20:30:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_108_3_1ZG.root
+25-Feb-2013 20:30:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_109_3_HAR.root
+25-Feb-2013 20:30:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_109_3_HAR.root
+25-Feb-2013 20:30:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_109_3_HAR.root
+25-Feb-2013 20:30:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_110_3_WLy.root
+25-Feb-2013 20:30:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_110_3_WLy.root
+25-Feb-2013 20:30:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_110_3_WLy.root
+25-Feb-2013 20:30:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_111_3_7xW.root
+25-Feb-2013 20:30:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_111_3_7xW.root
+25-Feb-2013 20:30:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_111_3_7xW.root
+25-Feb-2013 20:30:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_112_3_b8U.root
+25-Feb-2013 20:30:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_112_3_b8U.root
+25-Feb-2013 20:30:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_112_3_b8U.root
+25-Feb-2013 20:30:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_113_3_n8v.root
+25-Feb-2013 20:30:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_113_3_n8v.root
+25-Feb-2013 20:30:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_113_3_n8v.root
+25-Feb-2013 20:30:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_11_3_8mJ.root
+25-Feb-2013 20:30:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_11_3_8mJ.root
+25-Feb-2013 20:30:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_11_3_8mJ.root
+25-Feb-2013 20:30:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_114_3_DBk.root
+25-Feb-2013 20:30:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_114_3_DBk.root
+25-Feb-2013 20:30:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_114_3_DBk.root
+25-Feb-2013 20:30:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_115_3_0VM.root
+25-Feb-2013 20:30:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_115_3_0VM.root
+25-Feb-2013 20:30:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_115_3_0VM.root
+25-Feb-2013 20:30:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_116_3_7hg.root
+25-Feb-2013 20:30:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_116_3_7hg.root
+25-Feb-2013 20:30:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_116_3_7hg.root
+25-Feb-2013 20:30:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_117_3_vFQ.root
+25-Feb-2013 20:30:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_117_3_vFQ.root
+25-Feb-2013 20:30:29 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_117_3_vFQ.root
+25-Feb-2013 20:30:29 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_118_4_G5j.root
+25-Feb-2013 20:30:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_118_4_G5j.root
+Begin processing the 10001st record. Run 1, Event 26790664, LumiSection 89320 at 25-Feb-2013 20:30:31.331 CET
+25-Feb-2013 20:30:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_118_4_G5j.root
+25-Feb-2013 20:30:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_119_3_u3Y.root
+25-Feb-2013 20:30:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_119_3_u3Y.root
+25-Feb-2013 20:30:36 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_119_3_u3Y.root
+25-Feb-2013 20:30:36 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_120_3_iWW.root
+25-Feb-2013 20:30:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_120_3_iWW.root
+25-Feb-2013 20:30:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_120_3_iWW.root
+25-Feb-2013 20:30:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_121_3_RBs.root
+25-Feb-2013 20:30:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_121_3_RBs.root
+25-Feb-2013 20:30:40 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_121_3_RBs.root
+25-Feb-2013 20:30:40 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_122_3_N5j.root
+25-Feb-2013 20:30:40 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_122_3_N5j.root
+25-Feb-2013 20:30:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_122_3_N5j.root
+25-Feb-2013 20:30:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_123_3_aRN.root
+25-Feb-2013 20:30:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_123_3_aRN.root
+25-Feb-2013 20:30:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_123_3_aRN.root
+25-Feb-2013 20:30:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_12_3_hGi.root
+25-Feb-2013 20:30:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_12_3_hGi.root
+25-Feb-2013 20:30:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_12_3_hGi.root
+25-Feb-2013 20:30:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_124_3_5nn.root
+25-Feb-2013 20:30:49 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_124_3_5nn.root
+25-Feb-2013 20:31:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_124_3_5nn.root
+25-Feb-2013 20:31:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_125_3_OWc.root
+25-Feb-2013 20:31:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_125_3_OWc.root
+25-Feb-2013 20:31:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_125_3_OWc.root
+25-Feb-2013 20:31:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_126_3_ELe.root
+25-Feb-2013 20:31:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_126_3_ELe.root
+25-Feb-2013 20:31:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_126_3_ELe.root
+25-Feb-2013 20:31:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_127_3_sZU.root
+25-Feb-2013 20:31:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_127_3_sZU.root
+25-Feb-2013 20:31:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_127_3_sZU.root
+25-Feb-2013 20:31:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_128_3_wmh.root
+25-Feb-2013 20:31:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_128_3_wmh.root
+25-Feb-2013 20:31:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_128_3_wmh.root
+25-Feb-2013 20:31:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_129_3_7fc.root
+25-Feb-2013 20:31:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_129_3_7fc.root
+25-Feb-2013 20:31:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_129_3_7fc.root
+25-Feb-2013 20:31:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_130_3_wS9.root
+25-Feb-2013 20:31:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_130_3_wS9.root
+25-Feb-2013 20:32:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_130_3_wS9.root
+25-Feb-2013 20:32:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_131_3_NGB.root
+25-Feb-2013 20:32:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_131_3_NGB.root
+25-Feb-2013 20:32:06 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_131_3_NGB.root
+25-Feb-2013 20:32:06 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_132_3_Drc.root
+25-Feb-2013 20:32:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_132_3_Drc.root
+25-Feb-2013 20:32:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_132_3_Drc.root
+25-Feb-2013 20:32:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_133_3_UGD.root
+25-Feb-2013 20:32:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_133_3_UGD.root
+25-Feb-2013 20:32:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_133_3_UGD.root
+25-Feb-2013 20:32:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_134_3_0to.root
+25-Feb-2013 20:32:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_134_3_0to.root
+25-Feb-2013 20:32:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_134_3_0to.root
+25-Feb-2013 20:32:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_1_3_467.root
+25-Feb-2013 20:32:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_1_3_467.root
+25-Feb-2013 20:32:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_1_3_467.root
+25-Feb-2013 20:32:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_13_4_i7E.root
+25-Feb-2013 20:32:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_13_4_i7E.root
+25-Feb-2013 20:32:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_13_4_i7E.root
+25-Feb-2013 20:32:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_135_3_93i.root
+25-Feb-2013 20:32:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_135_3_93i.root
+25-Feb-2013 20:33:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_135_3_93i.root
+25-Feb-2013 20:33:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_136_3_pYg.root
+25-Feb-2013 20:33:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_136_3_pYg.root
+Begin processing the 20001st record. Run 1, Event 1853315, LumiSection 6179 at 25-Feb-2013 20:33:25.914 CET
+25-Feb-2013 20:33:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_136_3_pYg.root
+25-Feb-2013 20:33:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_137_3_F44.root
+25-Feb-2013 20:33:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_137_3_F44.root
+25-Feb-2013 20:33:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_137_3_F44.root
+25-Feb-2013 20:33:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_138_3_izs.root
+25-Feb-2013 20:33:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_138_3_izs.root
+25-Feb-2013 20:33:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_138_3_izs.root
+25-Feb-2013 20:33:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_139_3_lhb.root
+25-Feb-2013 20:33:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_139_3_lhb.root
+25-Feb-2013 20:34:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_139_3_lhb.root
+25-Feb-2013 20:34:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_140_3_lHs.root
+25-Feb-2013 20:34:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_140_3_lHs.root
+25-Feb-2013 20:34:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_140_3_lHs.root
+25-Feb-2013 20:34:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_141_3_8pY.root
+25-Feb-2013 20:34:21 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_141_3_8pY.root
+25-Feb-2013 20:34:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_141_3_8pY.root
+25-Feb-2013 20:34:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_142_3_yI0.root
+25-Feb-2013 20:34:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_142_3_yI0.root
+25-Feb-2013 20:34:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_142_3_yI0.root
+25-Feb-2013 20:34:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_14_2_O8L.root
+25-Feb-2013 20:34:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_14_2_O8L.root
+25-Feb-2013 20:34:27 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_14_2_O8L.root
+25-Feb-2013 20:34:27 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_143_3_GKR.root
+25-Feb-2013 20:34:27 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_143_3_GKR.root
+25-Feb-2013 20:34:29 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_143_3_GKR.root
+25-Feb-2013 20:34:29 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_144_3_7pq.root
+25-Feb-2013 20:34:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_144_3_7pq.root
+25-Feb-2013 20:34:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_144_3_7pq.root
+25-Feb-2013 20:34:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_145_3_iNT.root
+25-Feb-2013 20:34:32 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_145_3_iNT.root
+25-Feb-2013 20:34:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_145_3_iNT.root
+25-Feb-2013 20:34:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_146_3_6H3.root
+25-Feb-2013 20:34:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_146_3_6H3.root
+25-Feb-2013 20:35:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_146_3_6H3.root
+25-Feb-2013 20:35:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_147_3_8ty.root
+25-Feb-2013 20:35:21 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_147_3_8ty.root
+25-Feb-2013 20:35:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_147_3_8ty.root
+25-Feb-2013 20:35:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_148_3_YfH.root
+25-Feb-2013 20:35:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_148_3_YfH.root
+25-Feb-2013 20:35:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_148_3_YfH.root
+25-Feb-2013 20:35:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_149_3_ZeM.root
+25-Feb-2013 20:35:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_149_3_ZeM.root
+25-Feb-2013 20:35:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_149_3_ZeM.root
+25-Feb-2013 20:35:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_150_3_mg7.root
+25-Feb-2013 20:35:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_150_3_mg7.root
+25-Feb-2013 20:35:36 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_150_3_mg7.root
+25-Feb-2013 20:35:36 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_151_3_hqt.root
+25-Feb-2013 20:35:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_151_3_hqt.root
+25-Feb-2013 20:35:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_151_3_hqt.root
+25-Feb-2013 20:35:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_152_3_mDO.root
+25-Feb-2013 20:35:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_152_3_mDO.root
+25-Feb-2013 20:35:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_152_3_mDO.root
+25-Feb-2013 20:35:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_15_2_Iax.root
+25-Feb-2013 20:35:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_15_2_Iax.root
+25-Feb-2013 20:35:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_15_2_Iax.root
+25-Feb-2013 20:35:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_153_3_dTg.root
+25-Feb-2013 20:36:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_153_3_dTg.root
+25-Feb-2013 20:37:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_153_3_dTg.root
+25-Feb-2013 20:37:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_154_3_yCw.root
+25-Feb-2013 20:37:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_154_3_yCw.root
+25-Feb-2013 20:37:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_154_3_yCw.root
+25-Feb-2013 20:37:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_155_3_cgj.root
+25-Feb-2013 20:37:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_155_3_cgj.root
+Begin processing the 30001st record. Run 1, Event 8987347, LumiSection 29964 at 25-Feb-2013 20:37:53.102 CET
+25-Feb-2013 20:37:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_155_3_cgj.root
+25-Feb-2013 20:37:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_156_3_1M8.root
+25-Feb-2013 20:37:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_156_3_1M8.root
+25-Feb-2013 20:37:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_156_3_1M8.root
+25-Feb-2013 20:37:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_157_3_vKN.root
+25-Feb-2013 20:37:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_157_3_vKN.root
+25-Feb-2013 20:37:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_157_3_vKN.root
+25-Feb-2013 20:37:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_158_1_Pom.root
+25-Feb-2013 20:37:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_158_1_Pom.root
+25-Feb-2013 20:38:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_158_1_Pom.root
+25-Feb-2013 20:38:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_159_3_xwv.root
+25-Feb-2013 20:38:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_159_3_xwv.root
+25-Feb-2013 20:38:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_159_3_xwv.root
+25-Feb-2013 20:38:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_160_3_NtV.root
+25-Feb-2013 20:38:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_160_3_NtV.root
+25-Feb-2013 20:38:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_160_3_NtV.root
+25-Feb-2013 20:38:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_161_3_pFR.root
+25-Feb-2013 20:38:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_161_3_pFR.root
+25-Feb-2013 20:38:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_161_3_pFR.root
+25-Feb-2013 20:38:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_162_3_AKi.root
+25-Feb-2013 20:38:49 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_162_3_AKi.root
+25-Feb-2013 20:38:52 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_162_3_AKi.root
+25-Feb-2013 20:38:52 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_16_2_FeP.root
+25-Feb-2013 20:39:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_16_2_FeP.root
+25-Feb-2013 20:41:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_16_2_FeP.root
+25-Feb-2013 20:41:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_163_3_VeB.root
+25-Feb-2013 20:41:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_163_3_VeB.root
+25-Feb-2013 20:41:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_163_3_VeB.root
+25-Feb-2013 20:41:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_164_3_Eu5.root
+25-Feb-2013 20:41:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_164_3_Eu5.root
+25-Feb-2013 20:41:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_164_3_Eu5.root
+25-Feb-2013 20:41:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_165_3_pBR.root
+25-Feb-2013 20:41:49 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_165_3_pBR.root
+25-Feb-2013 20:41:50 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_165_3_pBR.root
+25-Feb-2013 20:41:50 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_166_3_I9J.root
+25-Feb-2013 20:41:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_166_3_I9J.root
+25-Feb-2013 20:41:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_166_3_I9J.root
+25-Feb-2013 20:41:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_167_3_vNh.root
+25-Feb-2013 20:41:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_167_3_vNh.root
+25-Feb-2013 20:41:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_167_3_vNh.root
+25-Feb-2013 20:41:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_168_3_nGU.root
+25-Feb-2013 20:41:56 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_168_3_nGU.root
+25-Feb-2013 20:41:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_168_3_nGU.root
+25-Feb-2013 20:41:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_169_3_ihK.root
+25-Feb-2013 20:42:00 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_169_3_ihK.root
+25-Feb-2013 20:42:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_169_3_ihK.root
+25-Feb-2013 20:42:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_170_3_l9C.root
+25-Feb-2013 20:42:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_170_3_l9C.root
+25-Feb-2013 20:42:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_170_3_l9C.root
+25-Feb-2013 20:42:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_171_3_vN4.root
+25-Feb-2013 20:42:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_171_3_vN4.root
+25-Feb-2013 20:42:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_171_3_vN4.root
+25-Feb-2013 20:42:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_17_2_1rf.root
+25-Feb-2013 20:42:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_17_2_1rf.root
+25-Feb-2013 20:42:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_17_2_1rf.root
+25-Feb-2013 20:42:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_172_3_F5C.root
+25-Feb-2013 20:42:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_172_3_F5C.root
+25-Feb-2013 20:42:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_172_3_F5C.root
+25-Feb-2013 20:42:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_173_3_AGJ.root
+25-Feb-2013 20:42:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_173_3_AGJ.root
+25-Feb-2013 20:43:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_173_3_AGJ.root
+25-Feb-2013 20:43:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_174_3_bgv.root
+25-Feb-2013 20:43:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_174_3_bgv.root
+Begin processing the 40001st record. Run 1, Event 46897866, LumiSection 156358 at 25-Feb-2013 20:43:21.829 CET
+25-Feb-2013 20:43:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_174_3_bgv.root
+25-Feb-2013 20:43:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_175_3_ACg.root
+25-Feb-2013 20:43:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_175_3_ACg.root
+25-Feb-2013 20:43:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_175_3_ACg.root
+25-Feb-2013 20:43:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_176_3_lwX.root
+25-Feb-2013 20:43:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_176_3_lwX.root
+25-Feb-2013 20:43:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_176_3_lwX.root
+25-Feb-2013 20:43:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_177_3_HJn.root
+25-Feb-2013 20:43:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_177_3_HJn.root
+25-Feb-2013 20:44:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_177_3_HJn.root
+25-Feb-2013 20:44:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_178_3_8Wv.root
+25-Feb-2013 20:44:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_178_3_8Wv.root
+25-Feb-2013 20:44:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_178_3_8Wv.root
+25-Feb-2013 20:44:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_179_3_0Fk.root
+25-Feb-2013 20:44:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_179_3_0Fk.root
+25-Feb-2013 20:44:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_179_3_0Fk.root
+25-Feb-2013 20:44:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_180_3_s2h.root
+25-Feb-2013 20:44:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_180_3_s2h.root
+25-Feb-2013 20:44:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_180_3_s2h.root
+25-Feb-2013 20:44:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_181_3_Mcs.root
+25-Feb-2013 20:44:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_181_3_Mcs.root
+25-Feb-2013 20:44:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_181_3_Mcs.root
+25-Feb-2013 20:44:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_182_3_RfK.root
+25-Feb-2013 20:44:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_182_3_RfK.root
+25-Feb-2013 20:44:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_182_3_RfK.root
+25-Feb-2013 20:44:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_18_2_dmr.root
+25-Feb-2013 20:44:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_18_2_dmr.root
+25-Feb-2013 20:44:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_18_2_dmr.root
+25-Feb-2013 20:44:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_183_4_R9O.root
+25-Feb-2013 20:44:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_183_4_R9O.root
+25-Feb-2013 20:44:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_183_4_R9O.root
+25-Feb-2013 20:44:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_184_4_Fyy.root
+25-Feb-2013 20:44:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_184_4_Fyy.root
+25-Feb-2013 20:44:46 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_184_4_Fyy.root
+25-Feb-2013 20:44:46 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_185_4_n1Q.root
+25-Feb-2013 20:44:46 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_185_4_n1Q.root
+25-Feb-2013 20:44:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_185_4_n1Q.root
+25-Feb-2013 20:44:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_186_3_597.root
+25-Feb-2013 20:44:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_186_3_597.root
+25-Feb-2013 20:44:50 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_186_3_597.root
+25-Feb-2013 20:44:50 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_187_3_fai.root
+25-Feb-2013 20:44:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_187_3_fai.root
+25-Feb-2013 20:44:52 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_187_3_fai.root
+25-Feb-2013 20:44:52 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_188_3_YPH.root
+25-Feb-2013 20:44:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_188_3_YPH.root
+25-Feb-2013 20:44:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_188_3_YPH.root
+25-Feb-2013 20:44:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_189_3_rlz.root
+25-Feb-2013 20:44:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_189_3_rlz.root
+25-Feb-2013 20:45:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_189_3_rlz.root
+25-Feb-2013 20:45:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_190_3_ggs.root
+25-Feb-2013 20:45:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_190_3_ggs.root
+25-Feb-2013 20:45:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_190_3_ggs.root
+25-Feb-2013 20:45:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_191_4_lxJ.root
+25-Feb-2013 20:45:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_191_4_lxJ.root
+25-Feb-2013 20:45:34 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_191_4_lxJ.root
+25-Feb-2013 20:45:34 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_192_3_iJ0.root
+25-Feb-2013 20:45:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_192_3_iJ0.root
+25-Feb-2013 20:45:36 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_192_3_iJ0.root
+25-Feb-2013 20:45:36 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_19_2_ewM.root
+25-Feb-2013 20:45:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_19_2_ewM.root
+25-Feb-2013 20:45:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_19_2_ewM.root
+25-Feb-2013 20:45:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_193_3_YNR.root
+25-Feb-2013 20:45:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_193_3_YNR.root
+Begin processing the 50001st record. Run 1, Event 13557816, LumiSection 45202 at 25-Feb-2013 20:45:41.091 CET
+25-Feb-2013 20:45:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_193_3_YNR.root
+25-Feb-2013 20:45:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_194_4_buB.root
+25-Feb-2013 20:45:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_194_4_buB.root
+25-Feb-2013 20:46:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_194_4_buB.root
+25-Feb-2013 20:46:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_195_3_OYJ.root
+25-Feb-2013 20:46:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_195_3_OYJ.root
+25-Feb-2013 20:46:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_195_3_OYJ.root
+25-Feb-2013 20:46:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_196_4_iez.root
+25-Feb-2013 20:46:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_196_4_iez.root
+25-Feb-2013 20:46:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_196_4_iez.root
+25-Feb-2013 20:46:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_197_3_HAL.root
+25-Feb-2013 20:46:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_197_3_HAL.root
+25-Feb-2013 20:46:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_197_3_HAL.root
+25-Feb-2013 20:46:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_198_3_cS3.root
+25-Feb-2013 20:46:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_198_3_cS3.root
+25-Feb-2013 20:46:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_198_3_cS3.root
+25-Feb-2013 20:46:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_199_3_mRe.root
+25-Feb-2013 20:46:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_199_3_mRe.root
+25-Feb-2013 20:47:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_199_3_mRe.root
+25-Feb-2013 20:47:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_200_3_HU7.root
+25-Feb-2013 20:47:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_200_3_HU7.root
+25-Feb-2013 20:47:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_200_3_HU7.root
+25-Feb-2013 20:47:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_201_3_Ou2.root
+25-Feb-2013 20:47:32 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_201_3_Ou2.root
+25-Feb-2013 20:47:34 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_201_3_Ou2.root
+25-Feb-2013 20:47:34 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_202_3_NuJ.root
+25-Feb-2013 20:47:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_202_3_NuJ.root
+25-Feb-2013 20:47:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_202_3_NuJ.root
+25-Feb-2013 20:47:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_20_2_oM9.root
+25-Feb-2013 20:47:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_20_2_oM9.root
+25-Feb-2013 20:47:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_20_2_oM9.root
+25-Feb-2013 20:47:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_203_3_xml.root
+25-Feb-2013 20:47:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_203_3_xml.root
+25-Feb-2013 20:47:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_203_3_xml.root
+25-Feb-2013 20:47:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_204_3_7Pa.root
+25-Feb-2013 20:47:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_204_3_7Pa.root
+25-Feb-2013 20:47:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_204_3_7Pa.root
+25-Feb-2013 20:47:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_205_1_0OZ.root
+25-Feb-2013 20:47:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_205_1_0OZ.root
+25-Feb-2013 20:47:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_205_1_0OZ.root
+25-Feb-2013 20:47:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_206_3_mEz.root
+25-Feb-2013 20:47:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_206_3_mEz.root
+25-Feb-2013 20:47:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_206_3_mEz.root
+25-Feb-2013 20:47:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_207_4_p8Y.root
+25-Feb-2013 20:47:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_207_4_p8Y.root
+25-Feb-2013 20:47:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_207_4_p8Y.root
+25-Feb-2013 20:47:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_208_3_JHD.root
+25-Feb-2013 20:47:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_208_3_JHD.root
+25-Feb-2013 20:47:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_208_3_JHD.root
+25-Feb-2013 20:47:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_209_3_5fv.root
+25-Feb-2013 20:47:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_209_3_5fv.root
+25-Feb-2013 20:47:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_209_3_5fv.root
+25-Feb-2013 20:47:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_210_1_7EO.root
+25-Feb-2013 20:47:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_210_1_7EO.root
+25-Feb-2013 20:47:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_210_1_7EO.root
+25-Feb-2013 20:47:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_211_3_P51.root
+25-Feb-2013 20:47:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_211_3_P51.root
+25-Feb-2013 20:47:59 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_211_3_P51.root
+25-Feb-2013 20:47:59 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_212_3_CId.root
+25-Feb-2013 20:47:59 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_212_3_CId.root
+25-Feb-2013 20:48:01 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_212_3_CId.root
+25-Feb-2013 20:48:01 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_21_2_ieb.root
+25-Feb-2013 20:48:01 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_21_2_ieb.root
+Begin processing the 60001st record. Run 1, Event 10723753, LumiSection 35753 at 25-Feb-2013 20:48:03.334 CET
+25-Feb-2013 20:48:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_21_2_ieb.root
+25-Feb-2013 20:48:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_213_3_L0h.root
+25-Feb-2013 20:48:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_213_3_L0h.root
+25-Feb-2013 20:48:05 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_213_3_L0h.root
+25-Feb-2013 20:48:05 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_214_1_Srj.root
+25-Feb-2013 20:48:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_214_1_Srj.root
+25-Feb-2013 20:48:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_214_1_Srj.root
+25-Feb-2013 20:48:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_215_3_39E.root
+25-Feb-2013 20:48:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_215_3_39E.root
+25-Feb-2013 20:48:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_215_3_39E.root
+25-Feb-2013 20:48:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_216_3_KZh.root
+25-Feb-2013 20:48:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_216_3_KZh.root
+25-Feb-2013 20:48:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_216_3_KZh.root
+25-Feb-2013 20:48:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_217_3_yWK.root
+25-Feb-2013 20:48:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_217_3_yWK.root
+25-Feb-2013 20:48:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_217_3_yWK.root
+25-Feb-2013 20:48:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_218_1_84m.root
+25-Feb-2013 20:48:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_218_1_84m.root
+25-Feb-2013 20:48:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_218_1_84m.root
+25-Feb-2013 20:48:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_219_3_RNu.root
+25-Feb-2013 20:48:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_219_3_RNu.root
+25-Feb-2013 20:48:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_219_3_RNu.root
+25-Feb-2013 20:48:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_220_3_xmw.root
+25-Feb-2013 20:48:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_220_3_xmw.root
+25-Feb-2013 20:48:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_220_3_xmw.root
+25-Feb-2013 20:48:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_221_4_j0j.root
+25-Feb-2013 20:48:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_221_4_j0j.root
+25-Feb-2013 20:48:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_221_4_j0j.root
+25-Feb-2013 20:48:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_222_1_C6h.root
+25-Feb-2013 20:48:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_222_1_C6h.root
+25-Feb-2013 20:48:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_222_1_C6h.root
+25-Feb-2013 20:48:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_22_2_M4q.root
+25-Feb-2013 20:48:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_22_2_M4q.root
+25-Feb-2013 20:48:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_22_2_M4q.root
+25-Feb-2013 20:48:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_223_3_Fgq.root
+25-Feb-2013 20:48:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_223_3_Fgq.root
+25-Feb-2013 20:48:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_223_3_Fgq.root
+25-Feb-2013 20:48:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_224_3_WJS.root
+25-Feb-2013 20:48:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_224_3_WJS.root
+25-Feb-2013 20:49:02 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_224_3_WJS.root
+25-Feb-2013 20:49:02 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_225_3_LEK.root
+25-Feb-2013 20:49:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_225_3_LEK.root
+25-Feb-2013 20:49:05 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_225_3_LEK.root
+25-Feb-2013 20:49:05 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_226_3_jtV.root
+25-Feb-2013 20:49:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_226_3_jtV.root
+25-Feb-2013 20:49:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_226_3_jtV.root
+25-Feb-2013 20:49:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_227_3_Wqf.root
+25-Feb-2013 20:49:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_227_3_Wqf.root
+25-Feb-2013 20:49:52 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_227_3_Wqf.root
+25-Feb-2013 20:49:52 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_228_1_jqe.root
+25-Feb-2013 20:49:52 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_228_1_jqe.root
+25-Feb-2013 20:49:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_228_1_jqe.root
+25-Feb-2013 20:49:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_229_3_81R.root
+25-Feb-2013 20:49:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_229_3_81R.root
+25-Feb-2013 20:49:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_229_3_81R.root
+25-Feb-2013 20:49:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_230_1_Ndi.root
+25-Feb-2013 20:50:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_230_1_Ndi.root
+25-Feb-2013 20:50:59 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_230_1_Ndi.root
+25-Feb-2013 20:50:59 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_231_1_TYe.root
+25-Feb-2013 20:50:59 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_231_1_TYe.root
+25-Feb-2013 20:51:01 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_231_1_TYe.root
+25-Feb-2013 20:51:01 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_232_3_Xj9.root
+25-Feb-2013 20:51:01 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_232_3_Xj9.root
+Begin processing the 70001st record. Run 1, Event 39997654, LumiSection 133352 at 25-Feb-2013 20:51:03.631 CET
+25-Feb-2013 20:51:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_232_3_Xj9.root
+25-Feb-2013 20:51:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_23_2_yAN.root
+25-Feb-2013 20:51:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_23_2_yAN.root
+25-Feb-2013 20:51:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_23_2_yAN.root
+25-Feb-2013 20:51:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_233_3_4ra.root
+25-Feb-2013 20:51:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_233_3_4ra.root
+25-Feb-2013 20:51:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_233_3_4ra.root
+25-Feb-2013 20:51:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_234_3_Xss.root
+25-Feb-2013 20:51:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_234_3_Xss.root
+25-Feb-2013 20:51:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_234_3_Xss.root
+25-Feb-2013 20:51:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_235_3_n40.root
+25-Feb-2013 20:51:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_235_3_n40.root
+25-Feb-2013 20:51:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_235_3_n40.root
+25-Feb-2013 20:51:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_236_3_N25.root
+25-Feb-2013 20:51:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_236_3_N25.root
+25-Feb-2013 20:51:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_236_3_N25.root
+25-Feb-2013 20:51:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_237_3_QEE.root
+25-Feb-2013 20:51:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_237_3_QEE.root
+25-Feb-2013 20:51:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_237_3_QEE.root
+25-Feb-2013 20:51:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_238_3_2VI.root
+25-Feb-2013 20:51:46 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_238_3_2VI.root
+25-Feb-2013 20:51:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_238_3_2VI.root
+25-Feb-2013 20:51:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_239_3_Ovn.root
+25-Feb-2013 20:51:49 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_239_3_Ovn.root
+25-Feb-2013 20:51:52 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_239_3_Ovn.root
+25-Feb-2013 20:51:52 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_2_3_wh6.root
+25-Feb-2013 20:51:52 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_2_3_wh6.root
+25-Feb-2013 20:51:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_2_3_wh6.root
+25-Feb-2013 20:51:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_240_3_h66.root
+25-Feb-2013 20:51:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_240_3_h66.root
+25-Feb-2013 20:51:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_240_3_h66.root
+25-Feb-2013 20:51:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_241_3_1mR.root
+25-Feb-2013 20:51:56 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_241_3_1mR.root
+25-Feb-2013 20:51:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_241_3_1mR.root
+25-Feb-2013 20:51:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_242_4_Svj.root
+25-Feb-2013 20:51:59 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_242_4_Svj.root
+25-Feb-2013 20:52:02 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_242_4_Svj.root
+25-Feb-2013 20:52:02 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_24_2_Ywo.root
+25-Feb-2013 20:52:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_24_2_Ywo.root
+25-Feb-2013 20:52:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_24_2_Ywo.root
+25-Feb-2013 20:52:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_243_3_I5L.root
+25-Feb-2013 20:52:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_243_3_I5L.root
+25-Feb-2013 20:52:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_243_3_I5L.root
+25-Feb-2013 20:52:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_244_3_KP8.root
+25-Feb-2013 20:52:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_244_3_KP8.root
+25-Feb-2013 20:52:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_244_3_KP8.root
+25-Feb-2013 20:52:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_245_3_2yG.root
+25-Feb-2013 20:52:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_245_3_2yG.root
+25-Feb-2013 20:52:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_245_3_2yG.root
+25-Feb-2013 20:52:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_246_3_GJf.root
+25-Feb-2013 20:52:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_246_3_GJf.root
+25-Feb-2013 20:52:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_246_3_GJf.root
+25-Feb-2013 20:52:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_247_3_fxD.root
+25-Feb-2013 20:52:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_247_3_fxD.root
+25-Feb-2013 20:53:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_247_3_fxD.root
+25-Feb-2013 20:53:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_248_1_js8.root
+25-Feb-2013 20:53:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_248_1_js8.root
+25-Feb-2013 20:53:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_248_1_js8.root
+25-Feb-2013 20:53:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_249_1_az8.root
+25-Feb-2013 20:53:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_249_1_az8.root
+Begin processing the 80001st record. Run 1, Event 32118759, LumiSection 107084 at 25-Feb-2013 20:53:50.489 CET
+25-Feb-2013 20:53:50 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_249_1_az8.root
+25-Feb-2013 20:53:50 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_250_3_DnY.root
+25-Feb-2013 20:53:50 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_250_3_DnY.root
+25-Feb-2013 20:53:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_250_3_DnY.root
+25-Feb-2013 20:53:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_251_1_xCg.root
+25-Feb-2013 20:53:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_251_1_xCg.root
+25-Feb-2013 20:53:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_251_1_xCg.root
+25-Feb-2013 20:53:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_252_3_Kf4.root
+25-Feb-2013 20:53:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_252_3_Kf4.root
+25-Feb-2013 20:53:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_252_3_Kf4.root
+25-Feb-2013 20:53:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_25_2_EPd.root
+25-Feb-2013 20:53:56 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_25_2_EPd.root
+25-Feb-2013 20:54:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_25_2_EPd.root
+25-Feb-2013 20:54:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_253_3_dkH.root
+25-Feb-2013 20:54:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_253_3_dkH.root
+25-Feb-2013 20:54:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_253_3_dkH.root
+25-Feb-2013 20:54:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_254_1_BRq.root
+25-Feb-2013 20:54:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_254_1_BRq.root
+25-Feb-2013 20:54:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_254_1_BRq.root
+25-Feb-2013 20:54:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_255_6_Fmi.root
+25-Feb-2013 20:54:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_255_6_Fmi.root
+25-Feb-2013 20:54:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_255_6_Fmi.root
+25-Feb-2013 20:54:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_256_3_OX8.root
+25-Feb-2013 20:54:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_256_3_OX8.root
+25-Feb-2013 20:54:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_256_3_OX8.root
+25-Feb-2013 20:54:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_257_1_qeC.root
+25-Feb-2013 20:54:21 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_257_1_qeC.root
+25-Feb-2013 20:54:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_257_1_qeC.root
+25-Feb-2013 20:54:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_258_4_SWa.root
+25-Feb-2013 20:54:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_258_4_SWa.root
+25-Feb-2013 20:54:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_258_4_SWa.root
+25-Feb-2013 20:54:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_259_1_KaW.root
+25-Feb-2013 20:54:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_259_1_KaW.root
+25-Feb-2013 20:54:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_259_1_KaW.root
+25-Feb-2013 20:54:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_260_1_kHB.root
+25-Feb-2013 20:54:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_260_1_kHB.root
+25-Feb-2013 20:54:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_260_1_kHB.root
+25-Feb-2013 20:54:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_261_1_f7k.root
+25-Feb-2013 20:54:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_261_1_f7k.root
+25-Feb-2013 20:56:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_261_1_f7k.root
+25-Feb-2013 20:56:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_262_1_hyx.root
+25-Feb-2013 20:56:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_262_1_hyx.root
+25-Feb-2013 20:56:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_262_1_hyx.root
+25-Feb-2013 20:56:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_26_2_HZT.root
+25-Feb-2013 20:56:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_26_2_HZT.root
+25-Feb-2013 20:56:27 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_26_2_HZT.root
+25-Feb-2013 20:56:27 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_263_3_5NJ.root
+25-Feb-2013 20:56:27 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_263_3_5NJ.root
+25-Feb-2013 20:56:29 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_263_3_5NJ.root
+25-Feb-2013 20:56:29 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_264_3_qb8.root
+25-Feb-2013 20:56:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_264_3_qb8.root
+25-Feb-2013 20:56:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_264_3_qb8.root
+25-Feb-2013 20:56:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_265_3_n9C.root
+25-Feb-2013 20:56:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_265_3_n9C.root
+25-Feb-2013 20:56:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_265_3_n9C.root
+25-Feb-2013 20:56:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_266_4_x7j.root
+25-Feb-2013 20:56:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_266_4_x7j.root
+25-Feb-2013 20:56:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_266_4_x7j.root
+25-Feb-2013 20:56:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_267_1_R41.root
+25-Feb-2013 20:56:40 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_267_1_R41.root
+25-Feb-2013 20:57:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_267_1_R41.root
+25-Feb-2013 20:57:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_268_3_csT.root
+25-Feb-2013 20:57:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_268_3_csT.root
+25-Feb-2013 20:57:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_268_3_csT.root
+25-Feb-2013 20:57:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_269_3_Qzk.root
+25-Feb-2013 20:57:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_269_3_Qzk.root
+Begin processing the 90001st record. Run 1, Event 46785733, LumiSection 155984 at 25-Feb-2013 20:57:18.661 CET
+25-Feb-2013 20:57:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_269_3_Qzk.root
+25-Feb-2013 20:57:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_270_4_Mg8.root
+25-Feb-2013 20:57:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_270_4_Mg8.root
+25-Feb-2013 20:57:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_270_4_Mg8.root
+25-Feb-2013 20:57:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_271_1_nas.root
+25-Feb-2013 20:57:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_271_1_nas.root
+25-Feb-2013 20:57:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_271_1_nas.root
+25-Feb-2013 20:57:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_272_3_la9.root
+25-Feb-2013 20:57:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_272_3_la9.root
+25-Feb-2013 20:57:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_272_3_la9.root
+25-Feb-2013 20:57:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_27_2_Br9.root
+25-Feb-2013 20:57:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_27_2_Br9.root
+25-Feb-2013 20:57:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_27_2_Br9.root
+25-Feb-2013 20:57:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_273_3_GV1.root
+25-Feb-2013 20:57:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_273_3_GV1.root
+25-Feb-2013 20:57:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_273_3_GV1.root
+25-Feb-2013 20:57:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_274_3_HKP.root
+25-Feb-2013 20:57:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_274_3_HKP.root
+25-Feb-2013 20:57:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_274_3_HKP.root
+25-Feb-2013 20:57:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_275_3_XNl.root
+25-Feb-2013 20:57:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_275_3_XNl.root
+25-Feb-2013 20:57:33 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_275_3_XNl.root
+25-Feb-2013 20:57:33 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_276_1_I9d.root
+25-Feb-2013 20:57:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_276_1_I9d.root
+25-Feb-2013 20:57:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_276_1_I9d.root
+25-Feb-2013 20:57:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_277_3_j37.root
+25-Feb-2013 20:57:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_277_3_j37.root
+25-Feb-2013 20:57:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_277_3_j37.root
+25-Feb-2013 20:57:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_278_1_NZQ.root
+25-Feb-2013 20:57:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_278_1_NZQ.root
+25-Feb-2013 20:57:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_278_1_NZQ.root
+25-Feb-2013 20:57:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_279_3_1Le.root
+25-Feb-2013 20:58:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_279_3_1Le.root
+25-Feb-2013 20:59:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_279_3_1Le.root
+25-Feb-2013 20:59:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_280_1_qci.root
+25-Feb-2013 20:59:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_280_1_qci.root
+25-Feb-2013 20:59:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_280_1_qci.root
+25-Feb-2013 20:59:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_281_3_Ojt.root
+25-Feb-2013 20:59:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_281_3_Ojt.root
+25-Feb-2013 20:59:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_281_3_Ojt.root
+25-Feb-2013 20:59:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_282_1_izL.root
+25-Feb-2013 20:59:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_282_1_izL.root
+25-Feb-2013 20:59:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_282_1_izL.root
+25-Feb-2013 20:59:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_28_2_Kkr.root
+25-Feb-2013 20:59:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_28_2_Kkr.root
+25-Feb-2013 20:59:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_28_2_Kkr.root
+25-Feb-2013 20:59:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_283_3_ejn.root
+25-Feb-2013 20:59:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_283_3_ejn.root
+25-Feb-2013 20:59:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_283_3_ejn.root
+25-Feb-2013 20:59:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_284_3_ZIA.root
+25-Feb-2013 20:59:50 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_284_3_ZIA.root
+25-Feb-2013 21:01:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_284_3_ZIA.root
+25-Feb-2013 21:01:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_285_1_gPx.root
+25-Feb-2013 21:01:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_285_1_gPx.root
+25-Feb-2013 21:02:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_285_1_gPx.root
+25-Feb-2013 21:02:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_286_3_DUZ.root
+25-Feb-2013 21:02:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_286_3_DUZ.root
+25-Feb-2013 21:02:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_286_3_DUZ.root
+25-Feb-2013 21:02:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_287_1_uEc.root
+25-Feb-2013 21:02:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_287_1_uEc.root
+25-Feb-2013 21:02:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_287_1_uEc.root
+25-Feb-2013 21:02:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_288_3_L5f.root
+25-Feb-2013 21:02:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_288_3_L5f.root
+Begin processing the 100001st record. Run 1, Event 47663048, LumiSection 158909 at 25-Feb-2013 21:03:10.667 CET
+25-Feb-2013 21:03:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_288_3_L5f.root
+25-Feb-2013 21:03:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_289_4_x32.root
+25-Feb-2013 21:03:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_289_4_x32.root
+25-Feb-2013 21:03:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_289_4_x32.root
+25-Feb-2013 21:03:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_290_3_pfX.root
+25-Feb-2013 21:03:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_290_3_pfX.root
+25-Feb-2013 21:03:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_290_3_pfX.root
+25-Feb-2013 21:03:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_291_1_igd.root
+25-Feb-2013 21:03:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_291_1_igd.root
+25-Feb-2013 21:03:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_291_1_igd.root
+25-Feb-2013 21:03:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_292_1_Up1.root
+25-Feb-2013 21:03:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_292_1_Up1.root
+25-Feb-2013 21:03:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_292_1_Up1.root
+25-Feb-2013 21:03:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_293_4_mQA.root
+25-Feb-2013 21:03:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_293_4_mQA.root
+25-Feb-2013 21:03:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_293_4_mQA.root
+25-Feb-2013 21:03:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_29_3_KS9.root
+25-Feb-2013 21:03:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_29_3_KS9.root
+25-Feb-2013 21:04:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_29_3_KS9.root
+25-Feb-2013 21:04:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_294_3_AFC.root
+25-Feb-2013 21:04:08 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_294_3_AFC.root
+25-Feb-2013 21:04:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_294_3_AFC.root
+25-Feb-2013 21:04:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_295_1_8So.root
+25-Feb-2013 21:04:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_295_1_8So.root
+25-Feb-2013 21:04:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_295_1_8So.root
+25-Feb-2013 21:04:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_296_1_wou.root
+25-Feb-2013 21:04:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_296_1_wou.root
+25-Feb-2013 21:04:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_296_1_wou.root
+25-Feb-2013 21:04:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_297_3_716.root
+25-Feb-2013 21:04:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_297_3_716.root
+25-Feb-2013 21:04:50 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_297_3_716.root
+25-Feb-2013 21:04:50 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_298_3_wnQ.root
+25-Feb-2013 21:04:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_298_3_wnQ.root
+25-Feb-2013 21:04:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_298_3_wnQ.root
+25-Feb-2013 21:04:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_299_4_GBK.root
+25-Feb-2013 21:04:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_299_4_GBK.root
+25-Feb-2013 21:04:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_299_4_GBK.root
+25-Feb-2013 21:04:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_300_3_ceY.root
+25-Feb-2013 21:04:57 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_300_3_ceY.root
+25-Feb-2013 21:04:59 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_300_3_ceY.root
+25-Feb-2013 21:04:59 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_301_3_5c5.root
+25-Feb-2013 21:05:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_301_3_5c5.root
+25-Feb-2013 21:05:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_301_3_5c5.root
+25-Feb-2013 21:05:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_302_3_EPv.root
+25-Feb-2013 21:05:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_302_3_EPv.root
+25-Feb-2013 21:06:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_302_3_EPv.root
+25-Feb-2013 21:06:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_30_2_M19.root
+25-Feb-2013 21:06:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_30_2_M19.root
+25-Feb-2013 21:06:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_30_2_M19.root
+25-Feb-2013 21:06:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_303_3_Pmd.root
+25-Feb-2013 21:06:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_303_3_Pmd.root
+25-Feb-2013 21:06:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_303_3_Pmd.root
+25-Feb-2013 21:06:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_304_3_lHB.root
+25-Feb-2013 21:06:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_304_3_lHB.root
+25-Feb-2013 21:06:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_304_3_lHB.root
+25-Feb-2013 21:06:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_305_1_GTg.root
+25-Feb-2013 21:06:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_305_1_GTg.root
+25-Feb-2013 21:06:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_305_1_GTg.root
+25-Feb-2013 21:06:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_306_4_Mkz.root
+25-Feb-2013 21:06:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_306_4_Mkz.root
+25-Feb-2013 21:07:02 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_306_4_Mkz.root
+25-Feb-2013 21:07:02 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_307_1_lUB.root
+25-Feb-2013 21:07:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_307_1_lUB.root
+Begin processing the 110001st record. Run 1, Event 1813828, LumiSection 6048 at 25-Feb-2013 21:07:03.979 CET
+25-Feb-2013 21:07:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_307_1_lUB.root
+25-Feb-2013 21:07:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_308_3_X9X.root
+25-Feb-2013 21:07:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_308_3_X9X.root
+25-Feb-2013 21:07:05 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_308_3_X9X.root
+25-Feb-2013 21:07:05 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_309_1_CgC.root
+25-Feb-2013 21:07:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_309_1_CgC.root
+25-Feb-2013 21:07:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_309_1_CgC.root
+25-Feb-2013 21:07:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_310_1_vDo.root
+25-Feb-2013 21:07:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_310_1_vDo.root
+25-Feb-2013 21:07:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_310_1_vDo.root
+25-Feb-2013 21:07:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_311_1_Sce.root
+25-Feb-2013 21:07:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_311_1_Sce.root
+25-Feb-2013 21:07:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_311_1_Sce.root
+25-Feb-2013 21:07:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_312_3_z8c.root
+25-Feb-2013 21:07:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_312_3_z8c.root
+25-Feb-2013 21:07:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_312_3_z8c.root
+25-Feb-2013 21:07:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_31_2_jcA.root
+25-Feb-2013 21:07:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_31_2_jcA.root
+25-Feb-2013 21:07:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_31_2_jcA.root
+25-Feb-2013 21:07:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_313_4_hvv.root
+25-Feb-2013 21:07:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_313_4_hvv.root
+25-Feb-2013 21:07:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_313_4_hvv.root
+25-Feb-2013 21:07:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_314_5_mOx.root
+25-Feb-2013 21:07:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_314_5_mOx.root
+25-Feb-2013 21:07:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_314_5_mOx.root
+25-Feb-2013 21:07:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_315_3_frZ.root
+25-Feb-2013 21:07:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_315_3_frZ.root
+25-Feb-2013 21:07:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_315_3_frZ.root
+25-Feb-2013 21:07:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_316_1_pFD.root
+25-Feb-2013 21:08:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_316_1_pFD.root
+25-Feb-2013 21:08:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_316_1_pFD.root
+25-Feb-2013 21:08:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_317_3_Ka3.root
+25-Feb-2013 21:08:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_317_3_Ka3.root
+25-Feb-2013 21:08:34 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_317_3_Ka3.root
+25-Feb-2013 21:08:34 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_318_3_Ikv.root
+25-Feb-2013 21:08:34 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_318_3_Ikv.root
+25-Feb-2013 21:08:36 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_318_3_Ikv.root
+25-Feb-2013 21:08:36 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_319_1_jEI.root
+25-Feb-2013 21:08:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_319_1_jEI.root
+25-Feb-2013 21:08:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_319_1_jEI.root
+25-Feb-2013 21:08:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_320_1_Aqv.root
+25-Feb-2013 21:08:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_320_1_Aqv.root
+25-Feb-2013 21:08:40 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_320_1_Aqv.root
+25-Feb-2013 21:08:40 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_321_1_KGE.root
+25-Feb-2013 21:08:40 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_321_1_KGE.root
+25-Feb-2013 21:08:46 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_321_1_KGE.root
+25-Feb-2013 21:08:46 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_322_1_dP1.root
+25-Feb-2013 21:08:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_322_1_dP1.root
+25-Feb-2013 21:09:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_322_1_dP1.root
+25-Feb-2013 21:09:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_323_1_ygP.root
+25-Feb-2013 21:09:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_323_1_ygP.root
+25-Feb-2013 21:09:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_323_1_ygP.root
+25-Feb-2013 21:09:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_32_3_zc0.root
+25-Feb-2013 21:09:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_32_3_zc0.root
+25-Feb-2013 21:09:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_32_3_zc0.root
+25-Feb-2013 21:09:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_324_1_c9N.root
+25-Feb-2013 21:09:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_324_1_c9N.root
+25-Feb-2013 21:09:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_MC/DYToTauTau_MTT_HS/patTuple_324_1_c9N.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                           250      250
+    2 fileAction           -s file_open                            500      500
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                750                 750

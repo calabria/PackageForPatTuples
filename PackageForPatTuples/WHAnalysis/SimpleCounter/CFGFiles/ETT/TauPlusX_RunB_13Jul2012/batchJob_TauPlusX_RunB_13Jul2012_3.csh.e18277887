@@ -1,0 +1,892 @@
+mkdir: cannot create directory `/lustre/cms/store/user/calabria/Data/SKIMMING/ETT/TauPlusX_RunB_13Jul2012': File exists
+09-Feb-2013 17:57:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_549_1_lsr.root
+09-Feb-2013 17:57:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_549_1_lsr.root
+Begin processing the 1st record. Run 195304, Event 542361807, LumiSection 432 at 09-Feb-2013 17:57:31.878 CET
+09-Feb-2013 17:57:33 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_549_1_lsr.root
+09-Feb-2013 17:57:33 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_550_1_oJt.root
+09-Feb-2013 17:57:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_550_1_oJt.root
+09-Feb-2013 17:57:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_550_1_oJt.root
+09-Feb-2013 17:57:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_551_1_zfQ.root
+09-Feb-2013 17:57:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_551_1_zfQ.root
+Begin processing the 10001st record. Run 195304, Event 673339228, LumiSection 537 at 09-Feb-2013 17:57:44.861 CET
+09-Feb-2013 17:57:46 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_551_1_zfQ.root
+09-Feb-2013 17:57:46 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_55_1_amx.root
+09-Feb-2013 17:57:46 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_55_1_amx.root
+09-Feb-2013 17:57:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_55_1_amx.root
+09-Feb-2013 17:57:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_552_1_3sq.root
+09-Feb-2013 17:57:50 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_552_1_3sq.root
+Begin processing the 20001st record. Run 195304, Event 772756509, LumiSection 627 at 09-Feb-2013 17:57:56.802 CET
+09-Feb-2013 17:57:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_552_1_3sq.root
+09-Feb-2013 17:57:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_553_1_Bh1.root
+09-Feb-2013 17:57:57 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_553_1_Bh1.root
+09-Feb-2013 17:58:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_553_1_Bh1.root
+09-Feb-2013 17:58:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_554_1_4Ez.root
+09-Feb-2013 17:58:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_554_1_4Ez.root
+Begin processing the 30001st record. Run 195304, Event 885631126, LumiSection 749 at 09-Feb-2013 17:58:08.488 CET
+09-Feb-2013 17:58:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_554_1_4Ez.root
+09-Feb-2013 17:58:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_555_3_xXj.root
+09-Feb-2013 17:58:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_555_3_xXj.root
+09-Feb-2013 17:58:17 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_555_3_xXj.root
+09-Feb-2013 17:58:17 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_556_1_jaF.root
+09-Feb-2013 17:58:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_556_1_jaF.root
+Begin processing the 40001st record. Run 195304, Event 983809777, LumiSection 860 at 09-Feb-2013 17:58:24.293 CET
+09-Feb-2013 17:58:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_556_1_jaF.root
+09-Feb-2013 17:58:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_557_1_Ccj.root
+09-Feb-2013 17:58:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_557_1_Ccj.root
+09-Feb-2013 17:58:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_557_1_Ccj.root
+09-Feb-2013 17:58:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_558_1_edk.root
+09-Feb-2013 17:58:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_558_1_edk.root
+Begin processing the 50001st record. Run 195304, Event 1137449830, LumiSection 1046 at 09-Feb-2013 17:58:37.042 CET
+09-Feb-2013 17:58:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_558_1_edk.root
+09-Feb-2013 17:58:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_559_1_oLn.root
+09-Feb-2013 17:58:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_559_1_oLn.root
+09-Feb-2013 17:58:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_559_1_oLn.root
+09-Feb-2013 17:58:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_560_1_rgS.root
+09-Feb-2013 17:58:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_560_1_rgS.root
+Begin processing the 60001st record. Run 195304, Event 1243905952, LumiSection 1183 at 09-Feb-2013 17:58:48.376 CET
+09-Feb-2013 17:58:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_560_1_rgS.root
+09-Feb-2013 17:58:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_561_1_A4r.root
+09-Feb-2013 17:58:49 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_561_1_A4r.root
+09-Feb-2013 17:58:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_561_1_A4r.root
+09-Feb-2013 17:58:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_56_1_ecI.root
+09-Feb-2013 17:58:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_56_1_ecI.root
+Begin processing the 70001st record. Run 194108, Event 20086425, LumiSection 83 at 09-Feb-2013 17:58:59.408 CET
+09-Feb-2013 17:58:59 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_56_1_ecI.root
+09-Feb-2013 17:58:59 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_562_1_LMs.root
+09-Feb-2013 17:59:00 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_562_1_LMs.root
+09-Feb-2013 17:59:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_562_1_LMs.root
+09-Feb-2013 17:59:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_563_1_eZL.root
+09-Feb-2013 17:59:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_563_1_eZL.root
+Begin processing the 80001st record. Run 195378, Event 1150537822, LumiSection 1021 at 09-Feb-2013 17:59:24.145 CET
+09-Feb-2013 17:59:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_563_1_eZL.root
+09-Feb-2013 17:59:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_564_1_LRI.root
+09-Feb-2013 17:59:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_564_1_LRI.root
+09-Feb-2013 17:59:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_564_1_LRI.root
+09-Feb-2013 17:59:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_565_1_2Xp.root
+09-Feb-2013 17:59:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_565_1_2Xp.root
+Begin processing the 90001st record. Run 195378, Event 257268156, LumiSection 214 at 09-Feb-2013 17:59:52.705 CET
+09-Feb-2013 17:59:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_565_1_2Xp.root
+09-Feb-2013 17:59:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_566_1_gtk.root
+09-Feb-2013 17:59:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_566_1_gtk.root
+Begin processing the 100001st record. Run 196531, Event 31401343, LumiSection 72 at 09-Feb-2013 18:00:04.806 CET
+09-Feb-2013 18:00:05 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_566_1_gtk.root
+09-Feb-2013 18:00:05 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_567_1_YyX.root
+09-Feb-2013 18:00:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_567_1_YyX.root
+09-Feb-2013 18:00:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_567_1_YyX.root
+09-Feb-2013 18:00:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_568_1_C93.root
+09-Feb-2013 18:00:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_568_1_C93.root
+Begin processing the 110001st record. Run 195378, Event 709409430, LumiSection 569 at 09-Feb-2013 18:00:27.945 CET
+09-Feb-2013 18:00:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_568_1_C93.root
+09-Feb-2013 18:00:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_569_1_v59.root
+09-Feb-2013 18:00:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_569_1_v59.root
+09-Feb-2013 18:00:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_569_1_v59.root
+09-Feb-2013 18:00:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_570_1_jvU.root
+09-Feb-2013 18:00:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_570_1_jvU.root
+Begin processing the 120001st record. Run 195378, Event 587753914, LumiSection 465 at 09-Feb-2013 18:00:40.337 CET
+09-Feb-2013 18:00:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_570_1_jvU.root
+09-Feb-2013 18:00:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_571_1_zrV.root
+09-Feb-2013 18:00:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_571_1_zrV.root
+09-Feb-2013 18:00:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_571_1_zrV.root
+09-Feb-2013 18:00:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_57_1_RzI.root
+09-Feb-2013 18:00:59 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_57_1_RzI.root
+Begin processing the 130001st record. Run 194050, Event 1316040242, LumiSection 1464 at 09-Feb-2013 18:01:05.689 CET
+09-Feb-2013 18:01:06 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_57_1_RzI.root
+09-Feb-2013 18:01:06 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_572_1_2k7.root
+09-Feb-2013 18:01:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_572_1_2k7.root
+09-Feb-2013 18:01:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_572_1_2k7.root
+09-Feb-2013 18:01:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_573_1_lLB.root
+09-Feb-2013 18:01:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_573_1_lLB.root
+Begin processing the 140001st record. Run 195378, Event 960306916, LumiSection 812 at 09-Feb-2013 18:01:18.457 CET
+09-Feb-2013 18:01:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_573_1_lLB.root
+09-Feb-2013 18:01:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_574_1_gj2.root
+09-Feb-2013 18:01:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_574_1_gj2.root
+09-Feb-2013 18:01:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_574_1_gj2.root
+09-Feb-2013 18:01:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_575_1_Q4z.root
+09-Feb-2013 18:01:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_575_1_Q4z.root
+Begin processing the 150001st record. Run 195378, Event 987285562, LumiSection 840 at 09-Feb-2013 18:01:30.784 CET
+09-Feb-2013 18:01:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_575_1_Q4z.root
+09-Feb-2013 18:01:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_576_1_FOc.root
+09-Feb-2013 18:01:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_576_1_FOc.root
+09-Feb-2013 18:01:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_576_1_FOc.root
+09-Feb-2013 18:01:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_577_1_4Mf.root
+09-Feb-2013 18:01:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_577_1_4Mf.root
+Begin processing the 160001st record. Run 195378, Event 1136589053, LumiSection 1005 at 09-Feb-2013 18:01:44.723 CET
+09-Feb-2013 18:01:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_577_1_4Mf.root
+09-Feb-2013 18:01:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_578_1_EQ7.root
+09-Feb-2013 18:01:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_578_1_EQ7.root
+09-Feb-2013 18:01:52 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_578_1_EQ7.root
+09-Feb-2013 18:01:52 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_579_1_vIv.root
+09-Feb-2013 18:01:52 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_579_1_vIv.root
+09-Feb-2013 18:01:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_579_1_vIv.root
+09-Feb-2013 18:01:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_580_1_5q5.root
+09-Feb-2013 18:01:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_580_1_5q5.root
+Begin processing the 170001st record. Run 195390, Event 64176993, LumiSection 79 at 09-Feb-2013 18:02:02.250 CET
+09-Feb-2013 18:02:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_580_1_5q5.root
+09-Feb-2013 18:02:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_581_1_ukj.root
+09-Feb-2013 18:02:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_581_1_ukj.root
+09-Feb-2013 18:02:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_581_1_ukj.root
+09-Feb-2013 18:02:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_58_1_9ql.root
+09-Feb-2013 18:02:08 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_58_1_9ql.root
+09-Feb-2013 18:02:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_58_1_9ql.root
+09-Feb-2013 18:02:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_582_1_lgN.root
+09-Feb-2013 18:02:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_582_1_lgN.root
+Begin processing the 180001st record. Run 195390, Event 144371645, LumiSection 180 at 09-Feb-2013 18:02:18.629 CET
+09-Feb-2013 18:02:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_582_1_lgN.root
+09-Feb-2013 18:02:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_583_1_u4p.root
+09-Feb-2013 18:02:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_583_1_u4p.root
+09-Feb-2013 18:02:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_583_1_u4p.root
+09-Feb-2013 18:02:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_584_1_4qd.root
+09-Feb-2013 18:02:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_584_1_4qd.root
+09-Feb-2013 18:02:29 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_584_1_4qd.root
+09-Feb-2013 18:02:29 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_585_1_7e7.root
+09-Feb-2013 18:02:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_585_1_7e7.root
+Begin processing the 190001st record. Run 195390, Event 283088424, LumiSection 365 at 09-Feb-2013 18:02:32.650 CET
+09-Feb-2013 18:02:33 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_585_1_7e7.root
+09-Feb-2013 18:02:33 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_586_1_SHn.root
+09-Feb-2013 18:02:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_586_1_SHn.root
+09-Feb-2013 18:02:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_586_1_SHn.root
+09-Feb-2013 18:02:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_587_1_3KZ.root
+09-Feb-2013 18:02:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_587_1_3KZ.root
+Begin processing the 200001st record. Run 196218, Event 72221740, LumiSection 84 at 09-Feb-2013 18:02:56.715 CET
+09-Feb-2013 18:02:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_587_1_3KZ.root
+09-Feb-2013 18:02:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_588_1_7df.root
+09-Feb-2013 18:02:57 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_588_1_7df.root
+09-Feb-2013 18:03:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_588_1_7df.root
+09-Feb-2013 18:03:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_589_1_7pz.root
+09-Feb-2013 18:03:08 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_589_1_7pz.root
+Begin processing the 210001st record. Run 195757, Event 44586611, LumiSection 26 at 09-Feb-2013 18:03:14.459 CET
+09-Feb-2013 18:03:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_589_1_7pz.root
+09-Feb-2013 18:03:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_590_1_9Nf.root
+09-Feb-2013 18:03:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_590_1_9Nf.root
+09-Feb-2013 18:03:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_590_1_9Nf.root
+09-Feb-2013 18:03:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_591_1_H2o.root
+09-Feb-2013 18:03:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_591_1_H2o.root
+Begin processing the 220001st record. Run 195397, Event 126335220, LumiSection 76 at 09-Feb-2013 18:03:32.442 CET
+09-Feb-2013 18:03:34 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_591_1_H2o.root
+09-Feb-2013 18:03:34 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_59_1_zg6.root
+09-Feb-2013 18:03:34 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_59_1_zg6.root
+09-Feb-2013 18:03:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_59_1_zg6.root
+09-Feb-2013 18:03:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_592_1_0Fa.root
+09-Feb-2013 18:03:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_592_1_0Fa.root
+Begin processing the 230001st record. Run 195397, Event 214665147, LumiSection 131 at 09-Feb-2013 18:03:52.848 CET
+09-Feb-2013 18:03:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_592_1_0Fa.root
+09-Feb-2013 18:03:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_593_1_hNa.root
+09-Feb-2013 18:03:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_593_1_hNa.root
+09-Feb-2013 18:04:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_593_1_hNa.root
+09-Feb-2013 18:04:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_594_1_6NS.root
+09-Feb-2013 18:04:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_594_1_6NS.root
+Begin processing the 240001st record. Run 195397, Event 326413882, LumiSection 205 at 09-Feb-2013 18:04:23.445 CET
+09-Feb-2013 18:04:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_594_1_6NS.root
+09-Feb-2013 18:04:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_595_1_g97.root
+09-Feb-2013 18:04:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_595_1_g97.root
+Begin processing the 250001st record. Run 195397, Event 441092728, LumiSection 287 at 09-Feb-2013 18:04:38.863 CET
+09-Feb-2013 18:04:40 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_595_1_g97.root
+09-Feb-2013 18:04:40 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_596_1_K8p.root
+09-Feb-2013 18:04:40 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_596_1_K8p.root
+09-Feb-2013 18:04:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_596_1_K8p.root
+09-Feb-2013 18:04:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_597_1_fMv.root
+09-Feb-2013 18:04:50 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_597_1_fMv.root
+Begin processing the 260001st record. Run 195397, Event 546298545, LumiSection 369 at 09-Feb-2013 18:05:04.038 CET
+09-Feb-2013 18:05:05 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_597_1_fMv.root
+09-Feb-2013 18:05:05 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_598_1_8GB.root
+09-Feb-2013 18:05:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_598_1_8GB.root
+09-Feb-2013 18:05:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_598_1_8GB.root
+09-Feb-2013 18:05:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_599_1_NlW.root
+09-Feb-2013 18:05:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_599_1_NlW.root
+Begin processing the 270001st record. Run 195397, Event 652319928, LumiSection 455 at 09-Feb-2013 18:05:21.907 CET
+09-Feb-2013 18:05:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_599_1_NlW.root
+09-Feb-2013 18:05:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_600_1_usn.root
+09-Feb-2013 18:05:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_600_1_usn.root
+09-Feb-2013 18:05:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_600_1_usn.root
+09-Feb-2013 18:05:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_601_2_qum.root
+09-Feb-2013 18:05:32 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_601_2_qum.root
+Begin processing the 280001st record. Run 195397, Event 764629302, LumiSection 551 at 09-Feb-2013 18:05:40.184 CET
+09-Feb-2013 18:05:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_601_2_qum.root
+09-Feb-2013 18:05:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_60_1_SrD.root
+09-Feb-2013 18:05:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_60_1_SrD.root
+09-Feb-2013 18:05:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_60_1_SrD.root
+09-Feb-2013 18:05:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_602_3_Ov4.root
+09-Feb-2013 18:05:45 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_602_3_Ov4.root
+Begin processing the 290001st record. Run 195397, Event 837570522, LumiSection 617 at 09-Feb-2013 18:05:53.894 CET
+09-Feb-2013 18:05:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_602_3_Ov4.root
+09-Feb-2013 18:05:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_603_2_tUJ.root
+09-Feb-2013 18:05:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_603_2_tUJ.root
+09-Feb-2013 18:06:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_603_2_tUJ.root
+09-Feb-2013 18:06:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_604_2_BZf.root
+09-Feb-2013 18:06:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_604_2_BZf.root
+Begin processing the 300001st record. Run 195397, Event 977029084, LumiSection 749 at 09-Feb-2013 18:06:09.233 CET
+09-Feb-2013 18:06:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_604_2_BZf.root
+09-Feb-2013 18:06:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_605_2_GRf.root
+09-Feb-2013 18:06:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_605_2_GRf.root
+09-Feb-2013 18:06:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_605_2_GRf.root
+09-Feb-2013 18:06:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_606_2_vH2.root
+09-Feb-2013 18:06:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_606_2_vH2.root
+Begin processing the 310001st record. Run 195397, Event 1062997915, LumiSection 836 at 09-Feb-2013 18:06:25.298 CET
+09-Feb-2013 18:06:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_606_2_vH2.root
+09-Feb-2013 18:06:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_607_2_Zq5.root
+09-Feb-2013 18:06:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_607_2_Zq5.root
+09-Feb-2013 18:06:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_607_2_Zq5.root
+09-Feb-2013 18:06:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_608_2_XNo.root
+09-Feb-2013 18:06:32 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_608_2_XNo.root
+Begin processing the 320001st record. Run 195397, Event 1170813585, LumiSection 950 at 09-Feb-2013 18:06:37.806 CET
+09-Feb-2013 18:06:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_608_2_XNo.root
+09-Feb-2013 18:06:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_609_2_6kS.root
+09-Feb-2013 18:06:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_609_2_6kS.root
+09-Feb-2013 18:06:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_609_2_6kS.root
+09-Feb-2013 18:06:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_610_2_sAv.root
+09-Feb-2013 18:06:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_610_2_sAv.root
+09-Feb-2013 18:06:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_610_2_sAv.root
+09-Feb-2013 18:06:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_611_2_Y13.root
+09-Feb-2013 18:06:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_611_2_Y13.root
+Begin processing the 330001st record. Run 195397, Event 1270782440, LumiSection 1063 at 09-Feb-2013 18:07:00.666 CET
+09-Feb-2013 18:07:02 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_611_2_Y13.root
+09-Feb-2013 18:07:02 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_61_1_Bye.root
+09-Feb-2013 18:07:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_61_1_Bye.root
+09-Feb-2013 18:07:06 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_61_1_Bye.root
+09-Feb-2013 18:07:06 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_612_2_gcQ.root
+09-Feb-2013 18:07:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_612_2_gcQ.root
+Begin processing the 340001st record. Run 195397, Event 1389575691, LumiSection 1206 at 09-Feb-2013 18:07:13.177 CET
+09-Feb-2013 18:07:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_612_2_gcQ.root
+09-Feb-2013 18:07:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_613_2_jgo.root
+09-Feb-2013 18:07:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_613_2_jgo.root
+09-Feb-2013 18:07:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_613_2_jgo.root
+09-Feb-2013 18:07:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_614_2_34Z.root
+09-Feb-2013 18:07:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_614_2_34Z.root
+Begin processing the 350001st record. Run 195398, Event 619450957, LumiSection 725 at 09-Feb-2013 18:07:30.891 CET
+09-Feb-2013 18:07:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_614_2_34Z.root
+09-Feb-2013 18:07:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_615_2_TOQ.root
+09-Feb-2013 18:07:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_615_2_TOQ.root
+09-Feb-2013 18:07:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_615_2_TOQ.root
+09-Feb-2013 18:07:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_616_2_fGG.root
+09-Feb-2013 18:07:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_616_2_fGG.root
+Begin processing the 360001st record. Run 195398, Event 252384204, LumiSection 299 at 09-Feb-2013 18:07:43.041 CET
+09-Feb-2013 18:07:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_616_2_fGG.root
+09-Feb-2013 18:07:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_617_2_QMU.root
+09-Feb-2013 18:07:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_617_2_QMU.root
+09-Feb-2013 18:07:46 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_617_2_QMU.root
+09-Feb-2013 18:07:46 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_618_2_DyU.root
+09-Feb-2013 18:07:46 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_618_2_DyU.root
+09-Feb-2013 18:07:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_618_2_DyU.root
+09-Feb-2013 18:07:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_619_2_zoE.root
+09-Feb-2013 18:07:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_619_2_zoE.root
+Begin processing the 370001st record. Run 195398, Event 374167064, LumiSection 431 at 09-Feb-2013 18:07:58.345 CET
+09-Feb-2013 18:07:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_619_2_zoE.root
+09-Feb-2013 18:07:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_6_1_rTM.root
+09-Feb-2013 18:07:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_6_1_rTM.root
+09-Feb-2013 18:08:06 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_6_1_rTM.root
+09-Feb-2013 18:08:06 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_620_2_jxF.root
+09-Feb-2013 18:08:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_620_2_jxF.root
+09-Feb-2013 18:08:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_620_2_jxF.root
+09-Feb-2013 18:08:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_621_2_OrE.root
+09-Feb-2013 18:08:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_621_2_OrE.root
+Begin processing the 380001st record. Run 195398, Event 389278054, LumiSection 448 at 09-Feb-2013 18:08:15.000 CET
+09-Feb-2013 18:08:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_621_2_OrE.root
+09-Feb-2013 18:08:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_62_1_RUU.root
+09-Feb-2013 18:08:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_62_1_RUU.root
+09-Feb-2013 18:08:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_62_1_RUU.root
+09-Feb-2013 18:08:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_622_2_0ow.root
+09-Feb-2013 18:08:21 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_622_2_0ow.root
+09-Feb-2013 18:08:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_622_2_0ow.root
+09-Feb-2013 18:08:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_623_2_OT3.root
+09-Feb-2013 18:08:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_623_2_OT3.root
+Begin processing the 390001st record. Run 195398, Event 492333423, LumiSection 569 at 09-Feb-2013 18:08:27.386 CET
+09-Feb-2013 18:08:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_623_2_OT3.root
+09-Feb-2013 18:08:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_624_2_PSx.root
+09-Feb-2013 18:08:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_624_2_PSx.root
+09-Feb-2013 18:08:36 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_624_2_PSx.root
+09-Feb-2013 18:08:36 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_625_2_29g.root
+09-Feb-2013 18:08:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_625_2_29g.root
+09-Feb-2013 18:08:40 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_625_2_29g.root
+09-Feb-2013 18:08:40 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_626_2_hZH.root
+09-Feb-2013 18:08:40 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_626_2_hZH.root
+Begin processing the 400001st record. Run 195398, Event 654084270, LumiSection 769 at 09-Feb-2013 18:08:43.556 CET
+09-Feb-2013 18:08:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_626_2_hZH.root
+09-Feb-2013 18:08:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_627_2_BRL.root
+09-Feb-2013 18:08:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_627_2_BRL.root
+09-Feb-2013 18:08:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_627_2_BRL.root
+09-Feb-2013 18:08:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_628_2_ocK.root
+09-Feb-2013 18:08:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_628_2_ocK.root
+09-Feb-2013 18:08:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_628_2_ocK.root
+09-Feb-2013 18:08:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_629_2_s2q.root
+09-Feb-2013 18:08:56 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_629_2_s2q.root
+Begin processing the 410001st record. Run 195398, Event 730803009, LumiSection 870 at 09-Feb-2013 18:08:59.116 CET
+09-Feb-2013 18:09:00 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_629_2_s2q.root
+09-Feb-2013 18:09:00 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_630_2_A6r.root
+09-Feb-2013 18:09:00 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_630_2_A6r.root
+09-Feb-2013 18:09:08 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_630_2_A6r.root
+09-Feb-2013 18:09:08 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_631_2_T80.root
+09-Feb-2013 18:09:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_631_2_T80.root
+Begin processing the 420001st record. Run 195398, Event 895928607, LumiSection 1099 at 09-Feb-2013 18:09:15.048 CET
+09-Feb-2013 18:09:15 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_631_2_T80.root
+09-Feb-2013 18:09:15 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_63_1_l63.root
+09-Feb-2013 18:09:15 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_63_1_l63.root
+09-Feb-2013 18:09:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_63_1_l63.root
+09-Feb-2013 18:09:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_632_2_Z3u.root
+09-Feb-2013 18:09:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_632_2_Z3u.root
+09-Feb-2013 18:09:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_632_2_Z3u.root
+09-Feb-2013 18:09:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_633_2_MKg.root
+09-Feb-2013 18:09:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_633_2_MKg.root
+Begin processing the 430001st record. Run 195398, Event 926684029, LumiSection 1143 at 09-Feb-2013 18:09:29.827 CET
+09-Feb-2013 18:09:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_633_2_MKg.root
+09-Feb-2013 18:09:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_634_2_mMz.root
+09-Feb-2013 18:09:30 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_634_2_mMz.root
+09-Feb-2013 18:09:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_634_2_mMz.root
+09-Feb-2013 18:09:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_635_2_LL4.root
+09-Feb-2013 18:09:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_635_2_LL4.root
+Begin processing the 440001st record. Run 195398, Event 1158680657, LumiSection 1438 at 09-Feb-2013 18:09:43.612 CET
+09-Feb-2013 18:09:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_635_2_LL4.root
+09-Feb-2013 18:09:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_636_2_RcV.root
+09-Feb-2013 18:09:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_636_2_RcV.root
+09-Feb-2013 18:09:52 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_636_2_RcV.root
+09-Feb-2013 18:09:52 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_637_2_3KL.root
+09-Feb-2013 18:09:52 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_637_2_3KL.root
+09-Feb-2013 18:10:00 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_637_2_3KL.root
+09-Feb-2013 18:10:00 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_638_2_ZpV.root
+09-Feb-2013 18:10:00 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_638_2_ZpV.root
+Begin processing the 450001st record. Run 195398, Event 1432110568, LumiSection 1729 at 09-Feb-2013 18:10:05.646 CET
+09-Feb-2013 18:10:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_638_2_ZpV.root
+09-Feb-2013 18:10:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_639_2_Bo0.root
+09-Feb-2013 18:10:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_639_2_Bo0.root
+09-Feb-2013 18:10:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_639_2_Bo0.root
+09-Feb-2013 18:10:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_640_2_I8x.root
+09-Feb-2013 18:10:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_640_2_I8x.root
+Begin processing the 460001st record. Run 195399, Event 236414408, LumiSection 291 at 09-Feb-2013 18:10:17.930 CET
+09-Feb-2013 18:10:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_640_2_I8x.root
+09-Feb-2013 18:10:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_64_1_0n8.root
+09-Feb-2013 18:10:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_64_1_0n8.root
+09-Feb-2013 18:10:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_64_1_0n8.root
+09-Feb-2013 18:10:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_641_2_SCl.root
+09-Feb-2013 18:10:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_641_2_SCl.root
+09-Feb-2013 18:10:27 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_641_2_SCl.root
+09-Feb-2013 18:10:27 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_642_2_a5u.root
+09-Feb-2013 18:10:27 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_642_2_a5u.root
+Begin processing the 470001st record. Run 195399, Event 293495707, LumiSection 365 at 09-Feb-2013 18:10:30.509 CET
+09-Feb-2013 18:10:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_642_2_a5u.root
+09-Feb-2013 18:10:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_643_2_lGT.root
+09-Feb-2013 18:10:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_643_2_lGT.root
+09-Feb-2013 18:10:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_643_2_lGT.root
+09-Feb-2013 18:10:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_644_2_8XC.root
+09-Feb-2013 18:10:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_644_2_8XC.root
+Begin processing the 480001st record. Run 195530, Event 123981713, LumiSection 77 at 09-Feb-2013 18:10:53.241 CET
+09-Feb-2013 18:10:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_644_2_8XC.root
+09-Feb-2013 18:10:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_645_3_fas.root
+09-Feb-2013 18:10:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_645_3_fas.root
+09-Feb-2013 18:11:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_645_3_fas.root
+09-Feb-2013 18:11:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_646_2_1Iu.root
+09-Feb-2013 18:11:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_646_2_1Iu.root
+Begin processing the 490001st record. Run 195530, Event 350098801, LumiSection 231 at 09-Feb-2013 18:11:27.585 CET
+09-Feb-2013 18:11:30 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_646_2_1Iu.root
+09-Feb-2013 18:11:30 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_647_2_Uyc.root
+09-Feb-2013 18:11:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_647_2_Uyc.root
+Begin processing the 500001st record. Run 195530, Event 375801687, LumiSection 250 at 09-Feb-2013 18:11:42.147 CET
+09-Feb-2013 18:11:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_647_2_Uyc.root
+09-Feb-2013 18:11:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_648_2_h27.root
+09-Feb-2013 18:11:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_648_2_h27.root
+09-Feb-2013 18:11:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_648_2_h27.root
+09-Feb-2013 18:11:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_649_2_pU8.root
+09-Feb-2013 18:11:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_649_2_pU8.root
+Begin processing the 510001st record. Run 195655, Event 293677111, LumiSection 254 at 09-Feb-2013 18:12:01.001 CET
+09-Feb-2013 18:12:01 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_649_2_pU8.root
+09-Feb-2013 18:12:01 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_650_2_N3j.root
+09-Feb-2013 18:12:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_650_2_N3j.root
+09-Feb-2013 18:12:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_650_2_N3j.root
+09-Feb-2013 18:12:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_651_2_hPb.root
+09-Feb-2013 18:12:09 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_651_2_hPb.root
+Begin processing the 520001st record. Run 195530, Event 513326478, LumiSection 357 at 09-Feb-2013 18:12:15.421 CET
+09-Feb-2013 18:12:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_651_2_hPb.root
+09-Feb-2013 18:12:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_65_1_g41.root
+09-Feb-2013 18:12:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_65_1_g41.root
+09-Feb-2013 18:12:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_65_1_g41.root
+09-Feb-2013 18:12:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_652_2_K2E.root
+09-Feb-2013 18:12:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_652_2_K2E.root
+09-Feb-2013 18:12:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_652_2_K2E.root
+09-Feb-2013 18:12:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_653_2_PeR.root
+09-Feb-2013 18:12:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_653_2_PeR.root
+Begin processing the 530001st record. Run 195530, Event 565258094, LumiSection 398 at 09-Feb-2013 18:12:36.310 CET
+09-Feb-2013 18:12:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_653_2_PeR.root
+09-Feb-2013 18:12:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_654_2_m0f.root
+09-Feb-2013 18:12:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_654_2_m0f.root
+Begin processing the 540001st record. Run 196531, Event 170321233, LumiSection 147 at 09-Feb-2013 18:12:46.979 CET
+09-Feb-2013 18:12:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_654_2_m0f.root
+09-Feb-2013 18:12:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_655_2_NnU.root
+09-Feb-2013 18:12:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_655_2_NnU.root
+09-Feb-2013 18:13:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_655_2_NnU.root
+09-Feb-2013 18:13:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_656_2_NQU.root
+09-Feb-2013 18:13:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_656_2_NQU.root
+Begin processing the 550001st record. Run 195540, Event 349022672, LumiSection 254 at 09-Feb-2013 18:13:09.455 CET
+09-Feb-2013 18:13:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_656_2_NQU.root
+09-Feb-2013 18:13:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_657_2_JhE.root
+09-Feb-2013 18:13:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_657_2_JhE.root
+09-Feb-2013 18:13:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_657_2_JhE.root
+09-Feb-2013 18:13:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_658_2_6Pj.root
+09-Feb-2013 18:13:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_658_2_6Pj.root
+Begin processing the 560001st record. Run 195551, Event 47064555, LumiSection 103 at 09-Feb-2013 18:13:27.133 CET
+09-Feb-2013 18:13:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_658_2_6Pj.root
+09-Feb-2013 18:13:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_659_2_IFT.root
+09-Feb-2013 18:13:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_659_2_IFT.root
+Begin processing the 570001st record. Run 195552, Event 165349105, LumiSection 96 at 09-Feb-2013 18:13:39.749 CET
+09-Feb-2013 18:13:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_659_2_IFT.root
+09-Feb-2013 18:13:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_660_2_1KY.root
+09-Feb-2013 18:13:40 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_660_2_1KY.root
+09-Feb-2013 18:13:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_660_2_1KY.root
+09-Feb-2013 18:13:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_661_2_ioR.root
+09-Feb-2013 18:13:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_661_2_ioR.root
+Begin processing the 580001st record. Run 195552, Event 237529897, LumiSection 140 at 09-Feb-2013 18:14:07.078 CET
+09-Feb-2013 18:14:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_661_2_ioR.root
+09-Feb-2013 18:14:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_66_1_EF3.root
+09-Feb-2013 18:14:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_66_1_EF3.root
+09-Feb-2013 18:14:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_66_1_EF3.root
+09-Feb-2013 18:14:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_662_2_vGm.root
+09-Feb-2013 18:14:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_662_2_vGm.root
+Begin processing the 590001st record. Run 195552, Event 327996237, LumiSection 199 at 09-Feb-2013 18:14:22.642 CET
+09-Feb-2013 18:14:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_662_2_vGm.root
+09-Feb-2013 18:14:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_663_2_N0F.root
+09-Feb-2013 18:14:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_663_2_N0F.root
+09-Feb-2013 18:14:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_663_2_N0F.root
+09-Feb-2013 18:14:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_664_2_Cog.root
+09-Feb-2013 18:14:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_664_2_Cog.root
+Begin processing the 600001st record. Run 195552, Event 442392205, LumiSection 277 at 09-Feb-2013 18:14:43.487 CET
+09-Feb-2013 18:14:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_664_2_Cog.root
+09-Feb-2013 18:14:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_665_2_DzD.root
+09-Feb-2013 18:14:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_665_2_DzD.root
+09-Feb-2013 18:14:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_665_2_DzD.root
+09-Feb-2013 18:14:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_666_2_Q0y.root
+09-Feb-2013 18:14:56 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_666_2_Q0y.root
+Begin processing the 610001st record. Run 195552, Event 570586776, LumiSection 371 at 09-Feb-2013 18:15:02.340 CET
+09-Feb-2013 18:15:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_666_2_Q0y.root
+09-Feb-2013 18:15:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_667_2_Uj3.root
+09-Feb-2013 18:15:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_667_2_Uj3.root
+09-Feb-2013 18:15:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_667_2_Uj3.root
+09-Feb-2013 18:15:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_668_2_zGw.root
+09-Feb-2013 18:15:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_668_2_zGw.root
+Begin processing the 620001st record. Run 195552, Event 662276703, LumiSection 444 at 09-Feb-2013 18:15:21.997 CET
+09-Feb-2013 18:15:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_668_2_zGw.root
+09-Feb-2013 18:15:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_669_4_UbC.root
+09-Feb-2013 18:15:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_669_4_UbC.root
+09-Feb-2013 18:15:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_669_4_UbC.root
+09-Feb-2013 18:15:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_670_2_uXa.root
+09-Feb-2013 18:15:32 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_670_2_uXa.root
+Begin processing the 630001st record. Run 195552, Event 773118455, LumiSection 536 at 09-Feb-2013 18:15:40.789 CET
+09-Feb-2013 18:15:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_670_2_uXa.root
+09-Feb-2013 18:15:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_671_2_ZdL.root
+09-Feb-2013 18:15:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_671_2_ZdL.root
+Begin processing the 640001st record. Run 195552, Event 876494764, LumiSection 627 at 09-Feb-2013 18:15:48.080 CET
+09-Feb-2013 18:15:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_671_2_ZdL.root
+09-Feb-2013 18:15:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_67_1_ktJ.root
+09-Feb-2013 18:15:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_67_1_ktJ.root
+09-Feb-2013 18:15:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_67_1_ktJ.root
+09-Feb-2013 18:15:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_672_2_mlz.root
+09-Feb-2013 18:15:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_672_2_mlz.root
+Begin processing the 650001st record. Run 195552, Event 933512669, LumiSection 680 at 09-Feb-2013 18:16:00.275 CET
+09-Feb-2013 18:16:00 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_672_2_mlz.root
+09-Feb-2013 18:16:00 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_673_2_8Xf.root
+09-Feb-2013 18:16:00 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_673_2_8Xf.root
+09-Feb-2013 18:16:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_673_2_8Xf.root
+09-Feb-2013 18:16:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_674_2_zHP.root
+09-Feb-2013 18:16:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_674_2_zHP.root
+09-Feb-2013 18:16:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_674_2_zHP.root
+09-Feb-2013 18:16:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_675_2_Cfr.root
+09-Feb-2013 18:16:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_675_2_Cfr.root
+Begin processing the 660001st record. Run 195552, Event 1027011044, LumiSection 771 at 09-Feb-2013 18:16:16.826 CET
+09-Feb-2013 18:16:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_675_2_Cfr.root
+09-Feb-2013 18:16:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_676_2_aZ5.root
+09-Feb-2013 18:16:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_676_2_aZ5.root
+09-Feb-2013 18:16:27 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_676_2_aZ5.root
+09-Feb-2013 18:16:27 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_677_2_DH2.root
+09-Feb-2013 18:16:27 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_677_2_DH2.root
+Begin processing the 670001st record. Run 195552, Event 1138540681, LumiSection 888 at 09-Feb-2013 18:16:34.443 CET
+09-Feb-2013 18:16:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_677_2_DH2.root
+09-Feb-2013 18:16:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_678_2_K0o.root
+09-Feb-2013 18:16:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_678_2_K0o.root
+09-Feb-2013 18:16:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_678_2_K0o.root
+09-Feb-2013 18:16:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_679_2_LTb.root
+09-Feb-2013 18:16:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_679_2_LTb.root
+Begin processing the 680001st record. Run 195552, Event 1239685941, LumiSection 1000 at 09-Feb-2013 18:16:46.093 CET
+09-Feb-2013 18:16:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_679_2_LTb.root
+09-Feb-2013 18:16:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_680_2_u5J.root
+09-Feb-2013 18:16:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_680_2_u5J.root
+09-Feb-2013 18:16:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_680_2_u5J.root
+09-Feb-2013 18:16:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_681_2_QTX.root
+09-Feb-2013 18:16:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_681_2_QTX.root
+Begin processing the 690001st record. Run 195552, Event 1337332676, LumiSection 1115 at 09-Feb-2013 18:17:03.824 CET
+09-Feb-2013 18:17:05 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_681_2_QTX.root
+09-Feb-2013 18:17:05 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_68_1_ANp.root
+09-Feb-2013 18:17:05 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_68_1_ANp.root
+09-Feb-2013 18:17:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_68_1_ANp.root
+09-Feb-2013 18:17:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_682_4_LC8.root
+09-Feb-2013 18:17:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_682_4_LC8.root
+Begin processing the 700001st record. Run 195552, Event 1392946324, LumiSection 1185 at 09-Feb-2013 18:17:16.503 CET
+09-Feb-2013 18:17:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_682_4_LC8.root
+09-Feb-2013 18:17:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_683_2_3nN.root
+09-Feb-2013 18:17:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_683_2_3nN.root
+09-Feb-2013 18:17:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_683_2_3nN.root
+09-Feb-2013 18:17:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_684_2_HmY.root
+09-Feb-2013 18:17:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_684_2_HmY.root
+Begin processing the 710001st record. Run 195552, Event 1494828266, LumiSection 1317 at 09-Feb-2013 18:17:30.934 CET
+09-Feb-2013 18:17:33 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_684_2_HmY.root
+09-Feb-2013 18:17:33 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_685_2_L79.root
+09-Feb-2013 18:17:33 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_685_2_L79.root
+Begin processing the 720001st record. Run 195552, Event 1628335188, LumiSection 1453 at 09-Feb-2013 18:17:39.208 CET
+09-Feb-2013 18:17:39 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_685_2_L79.root
+09-Feb-2013 18:17:39 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_686_4_W6P.root
+09-Feb-2013 18:17:39 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_686_4_W6P.root
+09-Feb-2013 18:17:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_686_4_W6P.root
+09-Feb-2013 18:17:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_687_2_v8S.root
+09-Feb-2013 18:17:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_687_2_v8S.root
+09-Feb-2013 18:17:45 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_687_2_v8S.root
+09-Feb-2013 18:17:45 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_688_2_hPH.root
+09-Feb-2013 18:17:46 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_688_2_hPH.root
+09-Feb-2013 18:17:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_688_2_hPH.root
+09-Feb-2013 18:17:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_689_2_51J.root
+09-Feb-2013 18:17:50 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_689_2_51J.root
+Begin processing the 730001st record. Run 195552, Event 1764732042, LumiSection 1599 at 09-Feb-2013 18:17:52.450 CET
+09-Feb-2013 18:17:53 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_689_2_51J.root
+09-Feb-2013 18:17:53 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_690_2_8Yl.root
+09-Feb-2013 18:17:53 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_690_2_8Yl.root
+09-Feb-2013 18:17:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_690_2_8Yl.root
+09-Feb-2013 18:17:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_691_2_40Z.root
+09-Feb-2013 18:17:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_691_2_40Z.root
+09-Feb-2013 18:18:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_691_2_40Z.root
+09-Feb-2013 18:18:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_69_1_hrW.root
+09-Feb-2013 18:18:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_69_1_hrW.root
+Begin processing the 740001st record. Run 194075, Event 37137234, LumiSection 66 at 09-Feb-2013 18:18:07.490 CET
+09-Feb-2013 18:18:08 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_69_1_hrW.root
+09-Feb-2013 18:18:08 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_692_2_4VG.root
+09-Feb-2013 18:18:08 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_692_2_4VG.root
+09-Feb-2013 18:18:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_692_2_4VG.root
+09-Feb-2013 18:18:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_693_2_hvT.root
+09-Feb-2013 18:18:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_693_2_hvT.root
+Begin processing the 750001st record. Run 195647, Event 34679455, LumiSection 21 at 09-Feb-2013 18:18:22.654 CET
+09-Feb-2013 18:18:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_693_2_hvT.root
+09-Feb-2013 18:18:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_694_2_KRK.root
+09-Feb-2013 18:18:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_694_2_KRK.root
+09-Feb-2013 18:18:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_694_2_KRK.root
+09-Feb-2013 18:18:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_695_2_R4n.root
+09-Feb-2013 18:18:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_695_2_R4n.root
+Begin processing the 760001st record. Run 195649, Event 83751436, LumiSection 55 at 09-Feb-2013 18:18:46.605 CET
+09-Feb-2013 18:18:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_695_2_R4n.root
+09-Feb-2013 18:18:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_696_2_yXt.root
+09-Feb-2013 18:18:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_696_2_yXt.root
+Begin processing the 770001st record. Run 195649, Event 201950707, LumiSection 135 at 09-Feb-2013 18:19:02.997 CET
+09-Feb-2013 18:19:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_696_2_yXt.root
+09-Feb-2013 18:19:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_697_4_iES.root
+09-Feb-2013 18:19:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_697_4_iES.root
+09-Feb-2013 18:19:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_697_4_iES.root
+09-Feb-2013 18:19:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_698_3_h7P.root
+09-Feb-2013 18:19:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_698_3_h7P.root
+Begin processing the 780001st record. Run 195649, Event 324685423, LumiSection 224 at 09-Feb-2013 18:19:17.782 CET
+09-Feb-2013 18:19:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_698_3_h7P.root
+09-Feb-2013 18:19:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_699_2_DA2.root
+09-Feb-2013 18:19:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_699_2_DA2.root
+09-Feb-2013 18:19:25 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_699_2_DA2.root
+09-Feb-2013 18:19:25 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_700_2_BrG.root
+09-Feb-2013 18:19:25 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_700_2_BrG.root
+Begin processing the 790001st record. Run 195655, Event 71742998, LumiSection 59 at 09-Feb-2013 18:19:30.178 CET
+09-Feb-2013 18:19:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_700_2_BrG.root
+09-Feb-2013 18:19:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_701_2_6Ok.root
+09-Feb-2013 18:19:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_701_2_6Ok.root
+09-Feb-2013 18:19:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_701_2_6Ok.root
+09-Feb-2013 18:19:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_70_1_6Wt.root
+09-Feb-2013 18:19:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_70_1_6Wt.root
+Begin processing the 800001st record. Run 194076, Event 88864699, LumiSection 78 at 09-Feb-2013 18:19:46.004 CET
+09-Feb-2013 18:19:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_70_1_6Wt.root
+09-Feb-2013 18:19:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_702_2_KDx.root
+09-Feb-2013 18:19:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_702_2_KDx.root
+09-Feb-2013 18:19:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_702_2_KDx.root
+09-Feb-2013 18:19:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_703_2_XXO.root
+09-Feb-2013 18:19:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_703_2_XXO.root
+Begin processing the 810001st record. Run 195655, Event 279242910, LumiSection 240 at 09-Feb-2013 18:20:03.031 CET
+09-Feb-2013 18:20:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_703_2_XXO.root
+09-Feb-2013 18:20:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_704_2_MDH.root
+09-Feb-2013 18:20:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_704_2_MDH.root
+09-Feb-2013 18:20:14 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_704_2_MDH.root
+09-Feb-2013 18:20:14 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_705_2_wgT.root
+09-Feb-2013 18:20:14 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_705_2_wgT.root
+Begin processing the 820001st record. Run 195655, Event 430610782, LumiSection 385 at 09-Feb-2013 18:20:19.071 CET
+09-Feb-2013 18:20:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_705_2_wgT.root
+09-Feb-2013 18:20:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_706_2_vy4.root
+09-Feb-2013 18:20:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_706_2_vy4.root
+Begin processing the 830001st record. Run 195655, Event 531823901, LumiSection 488 at 09-Feb-2013 18:20:28.886 CET
+09-Feb-2013 18:20:29 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_706_2_vy4.root
+09-Feb-2013 18:20:29 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_707_3_s3r.root
+09-Feb-2013 18:20:29 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_707_3_s3r.root
+09-Feb-2013 18:20:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_707_3_s3r.root
+09-Feb-2013 18:20:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_708_2_cLR.root
+09-Feb-2013 18:20:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_708_2_cLR.root
+Begin processing the 840001st record. Run 195749, Event 203858238, LumiSection 102 at 09-Feb-2013 18:20:47.558 CET
+09-Feb-2013 18:20:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_708_2_cLR.root
+09-Feb-2013 18:20:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_709_2_jtO.root
+09-Feb-2013 18:20:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_709_2_jtO.root
+09-Feb-2013 18:20:54 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_709_2_jtO.root
+09-Feb-2013 18:20:54 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_710_2_2O0.root
+09-Feb-2013 18:20:54 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_710_2_2O0.root
+09-Feb-2013 18:21:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_710_2_2O0.root
+09-Feb-2013 18:21:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_711_2_KBa.root
+09-Feb-2013 18:21:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_711_2_KBa.root
+Begin processing the 850001st record. Run 195656, Event 85988131, LumiSection 93 at 09-Feb-2013 18:21:08.811 CET
+09-Feb-2013 18:21:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_711_2_KBa.root
+09-Feb-2013 18:21:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_71_1_lHH.root
+09-Feb-2013 18:21:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_71_1_lHH.root
+09-Feb-2013 18:21:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_71_1_lHH.root
+09-Feb-2013 18:21:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_712_2_Pgt.root
+09-Feb-2013 18:21:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_712_2_Pgt.root
+Begin processing the 860001st record. Run 195656, Event 159934210, LumiSection 176 at 09-Feb-2013 18:21:21.588 CET
+09-Feb-2013 18:21:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_712_2_Pgt.root
+09-Feb-2013 18:21:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_713_2_2lg.root
+09-Feb-2013 18:21:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_713_2_2lg.root
+09-Feb-2013 18:21:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_713_2_2lg.root
+09-Feb-2013 18:21:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_714_2_dkp.root
+09-Feb-2013 18:21:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_714_2_dkp.root
+Begin processing the 870001st record. Run 195656, Event 238674492, LumiSection 268 at 09-Feb-2013 18:21:35.882 CET
+09-Feb-2013 18:21:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_714_2_dkp.root
+09-Feb-2013 18:21:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_715_2_CG3.root
+09-Feb-2013 18:21:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_715_2_CG3.root
+09-Feb-2013 18:21:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_715_2_CG3.root
+09-Feb-2013 18:21:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_716_2_E1l.root
+09-Feb-2013 18:21:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_716_2_E1l.root
+Begin processing the 880001st record. Run 195658, Event 27242232, LumiSection 37 at 09-Feb-2013 18:21:47.265 CET
+09-Feb-2013 18:21:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_716_2_E1l.root
+09-Feb-2013 18:21:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_717_2_wvc.root
+09-Feb-2013 18:21:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_717_2_wvc.root
+09-Feb-2013 18:21:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_717_2_wvc.root
+09-Feb-2013 18:21:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_718_2_Yd7.root
+09-Feb-2013 18:21:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_718_2_Yd7.root
+Begin processing the 890001st record. Run 195658, Event 195788701, LumiSection 210 at 09-Feb-2013 18:21:55.388 CET
+09-Feb-2013 18:21:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_718_2_Yd7.root
+09-Feb-2013 18:21:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_719_2_W63.root
+09-Feb-2013 18:21:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_719_2_W63.root
+09-Feb-2013 18:21:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_719_2_W63.root
+09-Feb-2013 18:21:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_7_1_Td9.root
+09-Feb-2013 18:21:59 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_7_1_Td9.root
+09-Feb-2013 18:22:03 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_7_1_Td9.root
+09-Feb-2013 18:22:03 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_720_2_s11.root
+09-Feb-2013 18:22:03 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_720_2_s11.root
+09-Feb-2013 18:22:06 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_720_2_s11.root
+09-Feb-2013 18:22:06 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_721_2_qjY.root
+09-Feb-2013 18:22:06 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_721_2_qjY.root
+Begin processing the 900001st record. Run 195658, Event 229516238, LumiSection 247 at 09-Feb-2013 18:22:10.377 CET
+09-Feb-2013 18:22:11 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_721_2_qjY.root
+09-Feb-2013 18:22:11 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_72_1_t0V.root
+09-Feb-2013 18:22:11 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_72_1_t0V.root
+09-Feb-2013 18:22:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_72_1_t0V.root
+09-Feb-2013 18:22:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_722_2_JoE.root
+09-Feb-2013 18:22:16 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_722_2_JoE.root
+Begin processing the 910001st record. Run 195749, Event 98542021, LumiSection 49 at 09-Feb-2013 18:22:27.231 CET
+09-Feb-2013 18:22:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_722_2_JoE.root
+09-Feb-2013 18:22:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_723_2_Sac.root
+09-Feb-2013 18:22:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_723_2_Sac.root
+Begin processing the 920001st record. Run 196334, Event 406509310, LumiSection 265 at 09-Feb-2013 18:22:37.245 CET
+09-Feb-2013 18:22:37 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_723_2_Sac.root
+09-Feb-2013 18:22:37 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_724_2_Pgn.root
+09-Feb-2013 18:22:37 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_724_2_Pgn.root
+09-Feb-2013 18:22:46 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_724_2_Pgn.root
+09-Feb-2013 18:22:46 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_725_2_QhR.root
+09-Feb-2013 18:22:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_725_2_QhR.root
+Begin processing the 930001st record. Run 195774, Event 842139842, LumiSection 521 at 09-Feb-2013 18:22:56.672 CET
+09-Feb-2013 18:22:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_725_2_QhR.root
+09-Feb-2013 18:22:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_726_2_AWN.root
+09-Feb-2013 18:22:57 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_726_2_AWN.root
+09-Feb-2013 18:23:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_726_2_AWN.root
+09-Feb-2013 18:23:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_727_3_gmr.root
+09-Feb-2013 18:23:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_727_3_gmr.root
+Begin processing the 940001st record. Run 195757, Event 106595868, LumiSection 66 at 09-Feb-2013 18:23:12.159 CET
+09-Feb-2013 18:23:13 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_727_3_gmr.root
+09-Feb-2013 18:23:13 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_728_2_HX2.root
+09-Feb-2013 18:23:13 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_728_2_HX2.root
+Begin processing the 950001st record. Run 195915, Event 79358562, LumiSection 43 at 09-Feb-2013 18:23:21.395 CET
+09-Feb-2013 18:23:21 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_728_2_HX2.root
+09-Feb-2013 18:23:21 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_729_2_FPd.root
+09-Feb-2013 18:23:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_729_2_FPd.root
+09-Feb-2013 18:23:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_729_2_FPd.root
+09-Feb-2013 18:23:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_730_2_rKz.root
+09-Feb-2013 18:23:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_730_2_rKz.root
+Begin processing the 960001st record. Run 195774, Event 50292360, LumiSection 25 at 09-Feb-2013 18:23:42.260 CET
+09-Feb-2013 18:23:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_730_2_rKz.root
+09-Feb-2013 18:23:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_731_2_z7J.root
+09-Feb-2013 18:23:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_731_2_z7J.root
+Begin processing the 970001st record. Run 196239, Event 113949678, LumiSection 109 at 09-Feb-2013 18:23:55.669 CET
+09-Feb-2013 18:23:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_731_2_z7J.root
+09-Feb-2013 18:23:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_73_1_yWE.root
+09-Feb-2013 18:23:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_73_1_yWE.root
+09-Feb-2013 18:24:00 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_73_1_yWE.root
+09-Feb-2013 18:24:00 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_732_2_Ycb.root
+09-Feb-2013 18:24:01 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_732_2_Ycb.root
+Begin processing the 980001st record. Run 196239, Event 187261421, LumiSection 182 at 09-Feb-2013 18:24:09.765 CET
+09-Feb-2013 18:24:09 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_732_2_Ycb.root
+09-Feb-2013 18:24:09 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_733_4_wrR.root
+09-Feb-2013 18:24:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_733_4_wrR.root
+09-Feb-2013 18:24:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_733_4_wrR.root
+09-Feb-2013 18:24:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_734_2_xFU.root
+09-Feb-2013 18:24:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_734_2_xFU.root
+Begin processing the 990001st record. Run 196239, Event 790501070, LumiSection 886 at 09-Feb-2013 18:24:28.283 CET
+09-Feb-2013 18:24:28 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_734_2_xFU.root
+09-Feb-2013 18:24:28 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_735_2_O95.root
+09-Feb-2013 18:24:28 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_735_2_O95.root
+09-Feb-2013 18:24:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_735_2_O95.root
+09-Feb-2013 18:24:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_736_2_uZc.root
+09-Feb-2013 18:24:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_736_2_uZc.root
+Begin processing the 1000001st record. Run 195774, Event 385649163, LumiSection 210 at 09-Feb-2013 18:24:45.803 CET
+09-Feb-2013 18:24:46 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_736_2_uZc.root
+09-Feb-2013 18:24:46 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_737_2_1l9.root
+09-Feb-2013 18:24:46 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_737_2_1l9.root
+09-Feb-2013 18:24:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_737_2_1l9.root
+09-Feb-2013 18:24:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_738_2_D8R.root
+09-Feb-2013 18:24:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_738_2_D8R.root
+Begin processing the 1010001st record. Run 195774, Event 578684531, LumiSection 331 at 09-Feb-2013 18:25:09.281 CET
+09-Feb-2013 18:25:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_738_2_D8R.root
+09-Feb-2013 18:25:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_739_2_VWk.root
+09-Feb-2013 18:25:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_739_2_VWk.root
+09-Feb-2013 18:25:22 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_739_2_VWk.root
+09-Feb-2013 18:25:22 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_740_2_65o.root
+09-Feb-2013 18:25:22 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_740_2_65o.root
+Begin processing the 1020001st record. Run 195774, Event 791820590, LumiSection 482 at 09-Feb-2013 18:25:33.742 CET
+09-Feb-2013 18:25:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_740_2_65o.root
+09-Feb-2013 18:25:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_741_2_3AZ.root
+09-Feb-2013 18:25:35 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_741_2_3AZ.root
+Begin processing the 1030001st record. Run 196197, Event 399610844, LumiSection 266 at 09-Feb-2013 18:25:42.072 CET
+09-Feb-2013 18:25:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_741_2_3AZ.root
+09-Feb-2013 18:25:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_74_1_uLp.root
+09-Feb-2013 18:25:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_74_1_uLp.root
+09-Feb-2013 18:25:47 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_74_1_uLp.root
+09-Feb-2013 18:25:47 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_742_4_TlM.root
+09-Feb-2013 18:25:47 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_742_4_TlM.root
+Begin processing the 1040001st record. Run 196197, Event 77407075, LumiSection 87 at 09-Feb-2013 18:25:54.868 CET
+09-Feb-2013 18:25:55 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_742_4_TlM.root
+09-Feb-2013 18:25:55 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_743_2_nhh.root
+09-Feb-2013 18:25:55 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_743_2_nhh.root
+09-Feb-2013 18:26:02 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_743_2_nhh.root
+09-Feb-2013 18:26:02 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_744_2_7ql.root
+09-Feb-2013 18:26:02 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_744_2_7ql.root
+Begin processing the 1050001st record. Run 195774, Event 1064525854, LumiSection 703 at 09-Feb-2013 18:26:09.221 CET
+09-Feb-2013 18:26:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_744_2_7ql.root
+09-Feb-2013 18:26:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_745_2_POl.root
+09-Feb-2013 18:26:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_745_2_POl.root
+09-Feb-2013 18:26:16 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_745_2_POl.root
+09-Feb-2013 18:26:16 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_746_2_Bl0.root
+09-Feb-2013 18:26:17 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_746_2_Bl0.root
+Begin processing the 1060001st record. Run 195775, Event 42172552, LumiSection 44 at 09-Feb-2013 18:26:23.318 CET
+09-Feb-2013 18:26:24 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_746_2_Bl0.root
+09-Feb-2013 18:26:24 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_747_2_YnJ.root
+09-Feb-2013 18:26:24 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_747_2_YnJ.root
+09-Feb-2013 18:26:31 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_747_2_YnJ.root
+09-Feb-2013 18:26:31 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_748_2_5ZW.root
+09-Feb-2013 18:26:31 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_748_2_5ZW.root
+Begin processing the 1070001st record. Run 195775, Event 144746663, LumiSection 157 at 09-Feb-2013 18:26:37.209 CET
+09-Feb-2013 18:26:38 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_748_2_5ZW.root
+09-Feb-2013 18:26:38 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_749_2_cmp.root
+09-Feb-2013 18:26:38 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_749_2_cmp.root
+09-Feb-2013 18:26:44 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_749_2_cmp.root
+09-Feb-2013 18:26:44 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_750_2_oCH.root
+09-Feb-2013 18:26:44 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_750_2_oCH.root
+Begin processing the 1080001st record. Run 195776, Event 289585450, LumiSection 357 at 09-Feb-2013 18:26:50.587 CET
+09-Feb-2013 18:26:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_750_2_oCH.root
+09-Feb-2013 18:26:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_751_2_vTc.root
+09-Feb-2013 18:26:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_751_2_vTc.root
+09-Feb-2013 18:26:56 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_751_2_vTc.root
+09-Feb-2013 18:26:56 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_75_1_vAo.root
+09-Feb-2013 18:26:56 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_75_1_vAo.root
+Begin processing the 1090001st record. Run 194789, Event 187734667, LumiSection 136 at 09-Feb-2013 18:27:00.871 CET
+09-Feb-2013 18:27:01 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_75_1_vAo.root
+09-Feb-2013 18:27:01 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_752_2_1YN.root
+09-Feb-2013 18:27:01 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_752_2_1YN.root
+09-Feb-2013 18:27:07 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_752_2_1YN.root
+09-Feb-2013 18:27:07 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_753_2_SkU.root
+09-Feb-2013 18:27:07 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_753_2_SkU.root
+Begin processing the 1100001st record. Run 195915, Event 398045145, LumiSection 232 at 09-Feb-2013 18:27:17.963 CET
+09-Feb-2013 18:27:18 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_753_2_SkU.root
+09-Feb-2013 18:27:18 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_754_2_yCW.root
+09-Feb-2013 18:27:18 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_754_2_yCW.root
+09-Feb-2013 18:27:27 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_754_2_yCW.root
+09-Feb-2013 18:27:27 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_755_2_Jzt.root
+09-Feb-2013 18:27:27 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_755_2_Jzt.root
+Begin processing the 1110001st record. Run 195868, Event 233119068, LumiSection 138 at 09-Feb-2013 18:27:34.728 CET
+09-Feb-2013 18:27:35 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_755_2_Jzt.root
+09-Feb-2013 18:27:35 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_756_2_FwR.root
+09-Feb-2013 18:27:36 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_756_2_FwR.root
+09-Feb-2013 18:27:42 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_756_2_FwR.root
+09-Feb-2013 18:27:42 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_757_2_XqV.root
+09-Feb-2013 18:27:42 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_757_2_XqV.root
+Begin processing the 1120001st record. Run 195915, Event 49102188, LumiSection 27 at 09-Feb-2013 18:27:47.124 CET
+09-Feb-2013 18:27:48 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_757_2_XqV.root
+09-Feb-2013 18:27:48 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_758_4_ogW.root
+09-Feb-2013 18:27:48 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_758_4_ogW.root
+Begin processing the 1130001st record. Run 196362, Event 25093177, LumiSection 21 at 09-Feb-2013 18:27:57.691 CET
+09-Feb-2013 18:27:57 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_758_4_ogW.root
+09-Feb-2013 18:27:57 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_759_4_HBK.root
+09-Feb-2013 18:27:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_759_4_HBK.root
+09-Feb-2013 18:28:08 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_759_4_HBK.root
+09-Feb-2013 18:28:08 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_760_2_KMp.root
+09-Feb-2013 18:28:08 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_760_2_KMp.root
+Begin processing the 1140001st record. Run 195915, Event 656197930, LumiSection 414 at 09-Feb-2013 18:28:18.290 CET
+09-Feb-2013 18:28:19 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_760_2_KMp.root
+09-Feb-2013 18:28:19 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_761_2_L0o.root
+09-Feb-2013 18:28:19 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_761_2_L0o.root
+09-Feb-2013 18:28:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_761_2_L0o.root
+09-Feb-2013 18:28:26 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_76_1_dB6.root
+09-Feb-2013 18:28:26 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_76_1_dB6.root
+Begin processing the 1150001st record. Run 194076, Event 41879897, LumiSection 37 at 09-Feb-2013 18:28:30.523 CET
+09-Feb-2013 18:28:32 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_76_1_dB6.root
+09-Feb-2013 18:28:32 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_762_2_4YO.root
+09-Feb-2013 18:28:32 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_762_2_4YO.root
+Begin processing the 1160001st record. Run 196349, Event 323563965, LumiSection 219 at 09-Feb-2013 18:28:40.470 CET
+09-Feb-2013 18:28:41 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_762_2_4YO.root
+09-Feb-2013 18:28:41 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_763_2_PM6.root
+09-Feb-2013 18:28:41 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_763_2_PM6.root
+09-Feb-2013 18:28:51 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_763_2_PM6.root
+09-Feb-2013 18:28:51 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_764_2_Pup.root
+09-Feb-2013 18:28:51 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_764_2_Pup.root
+Begin processing the 1170001st record. Run 195915, Event 640872786, LumiSection 402 at 09-Feb-2013 18:28:59.212 CET
+09-Feb-2013 18:29:00 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_764_2_Pup.root
+09-Feb-2013 18:29:00 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_765_2_4bL.root
+09-Feb-2013 18:29:00 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_765_2_4bL.root
+09-Feb-2013 18:29:10 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_765_2_4bL.root
+09-Feb-2013 18:29:10 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_766_2_PYL.root
+09-Feb-2013 18:29:10 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_766_2_PYL.root
+Begin processing the 1180001st record. Run 195915, Event 963539623, LumiSection 666 at 09-Feb-2013 18:29:21.315 CET
+09-Feb-2013 18:29:23 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_766_2_PYL.root
+09-Feb-2013 18:29:23 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_767_2_JL6.root
+09-Feb-2013 18:29:23 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_767_2_JL6.root
+09-Feb-2013 18:29:34 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_767_2_JL6.root
+09-Feb-2013 18:29:34 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_768_2_CHT.root
+09-Feb-2013 18:29:34 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_768_2_CHT.root
+Begin processing the 1190001st record. Run 195915, Event 851376632, LumiSection 569 at 09-Feb-2013 18:29:40.561 CET
+09-Feb-2013 18:29:43 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_768_2_CHT.root
+09-Feb-2013 18:29:43 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_769_2_P3P.root
+09-Feb-2013 18:29:43 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_769_2_P3P.root
+09-Feb-2013 18:29:49 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_769_2_P3P.root
+09-Feb-2013 18:29:49 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_770_2_mnW.root
+09-Feb-2013 18:29:49 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_770_2_mnW.root
+Begin processing the 1200001st record. Run 195915, Event 1123782817, LumiSection 816 at 09-Feb-2013 18:29:55.666 CET
+09-Feb-2013 18:29:58 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_770_2_mnW.root
+09-Feb-2013 18:29:58 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_771_4_tFL.root
+09-Feb-2013 18:29:58 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_771_4_tFL.root
+09-Feb-2013 18:30:04 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_771_4_tFL.root
+09-Feb-2013 18:30:04 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_77_1_rN5.root
+09-Feb-2013 18:30:04 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_77_1_rN5.root
+Begin processing the 1210001st record. Run 194076, Event 136592305, LumiSection 122 at 09-Feb-2013 18:30:10.839 CET
+09-Feb-2013 18:30:12 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_77_1_rN5.root
+09-Feb-2013 18:30:12 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_772_2_jFw.root
+09-Feb-2013 18:30:12 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_772_2_jFw.root
+09-Feb-2013 18:30:20 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_772_2_jFw.root
+09-Feb-2013 18:30:20 CET  Initiating request to open file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_773_2_Tgo.root
+09-Feb-2013 18:30:20 CET  Successfully opened file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_773_2_Tgo.root
+Begin processing the 1220001st record. Run 196438, Event 247768546, LumiSection 297 at 09-Feb-2013 18:30:24.702 CET
+09-Feb-2013 18:30:26 CET  Closed file file:/lustre/cms/store/user/calabria/Data/PatTuples_WH_3Jan2013_Data/TauPlusX_RunB_13Jul2012/patTuple_773_2_Tgo.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                           250      250
+    2 fileAction           -s file_open                            500      500
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                750                 750
