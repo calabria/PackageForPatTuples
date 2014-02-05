@@ -183,19 +183,19 @@ process.scrapingVeto = cms.EDFilter("FilterOutScraping",
 	)
 
 process.tauVariables = cms.EDProducer('TausUserEmbedded',
-	tauTag = cms.InputTag("patTaus"),
+	tauTag = cms.InputTag("patTausTriggerMatch"),
 	vertexTag = cms.InputTag("offlinePrimaryVerticesWithBS")
 )
 
 process.muonVariables = cms.EDProducer('MuonsUserEmbedded',
 
-	muonTag = cms.InputTag("patMuons"),
+	muonTag = cms.InputTag("patMuonsTriggerMatch"),
 	vertexTag = cms.InputTag("offlinePrimaryVerticesWithBS"),
 
 )
 
 process.electronVariables = cms.EDProducer('ElectronsUserEmbedder',
-	electronTag = cms.InputTag("patElectrons"),
+	electronTag = cms.InputTag("patElectronsTriggerMatch"),
 	vertexTag = cms.InputTag("offlinePrimaryVerticesWithBS"),
 	isMC = cms.bool(isMC),
 	doMVAPOG = cms.bool(True),
