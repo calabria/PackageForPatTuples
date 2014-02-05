@@ -14,7 +14,6 @@
 <use   name="CommonTools/UtilAlgos"/>
 <use   name="GeneratorInterface/LHEInterface"/>
 <use   name="PhysicsTools/HepMCCandAlgos"/>
-<use   name="Muon/MuonAnalysisTools"/>
 <use   name="TrackingTools/TrajectoryState"/>
 <use   name="TrackingTools/TransientTrack"/>
 <use   name="TrackingTools/Records"/>
@@ -23,6 +22,3 @@
 <use   name="rootcore"/>
 <use   name="rootrflx"/>
 <flags EDM_PLUGIN="1"/>
-<export>
-  <lib   name="1"/>
-</export>

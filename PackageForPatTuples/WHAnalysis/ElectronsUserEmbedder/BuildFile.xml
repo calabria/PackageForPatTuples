@@ -14,18 +14,13 @@
 <use   name="CommonTools/UtilAlgos"/>
 <use   name="GeneratorInterface/LHEInterface"/>
 <use   name="PhysicsTools/HepMCCandAlgos"/>
-<use   name="HiggsAnalysis/HiggsToWW2Leptons"/>
 <use   name="MagneticField/Engine"/>
 <use   name="MagneticField/Records"/>
 <use   name="DataFormats/EgammaReco"/>
 <use   name="DataFormats/EgammaCandidates"/>
-<use   name="CondCore/EgammaPlugins"/>
 <use   name="RecoEgamma/EgammaTools"/>
 <use   name="EGamma/EGammaAnalysisTools"/>
 <use   name="boost"/>
 <use   name="rootcore"/>
 <use   name="rootrflx"/>
 <flags EDM_PLUGIN="1"/>
-<export>
-   <lib name="1"/>
-</export>

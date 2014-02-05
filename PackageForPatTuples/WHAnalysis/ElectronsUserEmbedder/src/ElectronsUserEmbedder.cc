@@ -43,8 +43,6 @@
 #include "DataFormats/RecoCandidate/interface/IsoDeposit.h"
 #include "DataFormats/PatCandidates/interface/Isolation.h"
 
-#include "HiggsAnalysis/HiggsToWW2Leptons/interface/ElectronIDMVA.h"
-
 #include "MagneticField/Records/interface/IdealMagneticFieldRecord.h"
 #include "MagneticField/Engine/interface/MagneticField.h"
 #include "DataFormats/GeometryVector/interface/GlobalPoint.h"
@@ -97,16 +95,10 @@ class ElectronsUserEmbedder : public edm::EDProducer {
       edm::InputTag electronTag_;
       edm::InputTag vertexTag_;
       bool isMC_;
-      bool doMVAMIT_;
       bool doMVAPOG_;
-      bool doMVAIso_;
-      std::string target;
-      ElectronEffectiveArea::ElectronEffectiveAreaTarget target_;
 
-      ElectronIDMVA* fMVA_;
       EGammaMvaEleEstimator* myMVATrig_;
       EGammaMvaEleEstimator* myMVANonTrig_;
-      EGammaMvaEleEstimator* fElectronIsoMVA;
 
 };
 
@@ -128,17 +120,7 @@ ElectronsUserEmbedder::ElectronsUserEmbedder(const edm::ParameterSet& iConfig)
   electronTag_ = iConfig.getParameter<edm::InputTag>("electronTag");
   vertexTag_   = iConfig.getParameter<edm::InputTag>("vertexTag");
   isMC_        = iConfig.getParameter<bool>("isMC");
-  doMVAMIT_    = iConfig.getParameter<bool>("doMVAMIT");
   doMVAPOG_    = iConfig.getParameter<bool>("doMVAPOG");
-  doMVAIso_    = iConfig.getParameter<bool>("doMVAIso");
-  target       = iConfig.getParameter<std::string>("target");
-
-  edm::FileInPath inputFileName0 = iConfig.getParameter<edm::FileInPath>("inputFileName0");
-  edm::FileInPath inputFileName1 = iConfig.getParameter<edm::FileInPath>("inputFileName1");
-  edm::FileInPath inputFileName2 = iConfig.getParameter<edm::FileInPath>("inputFileName2");
-  edm::FileInPath inputFileName3 = iConfig.getParameter<edm::FileInPath>("inputFileName3");
-  edm::FileInPath inputFileName4 = iConfig.getParameter<edm::FileInPath>("inputFileName4");
-  edm::FileInPath inputFileName5 = iConfig.getParameter<edm::FileInPath>("inputFileName5");
 
   edm::FileInPath inputFileName0v2 = iConfig.getParameter<edm::FileInPath>("inputFileName0v2");
   edm::FileInPath inputFileName1v2 = iConfig.getParameter<edm::FileInPath>("inputFileName1v2");
@@ -153,23 +135,6 @@ ElectronsUserEmbedder::ElectronsUserEmbedder(const edm::ParameterSet& iConfig)
   edm::FileInPath inputFileName3v3 = iConfig.getParameter<edm::FileInPath>("inputFileName3v3");
   edm::FileInPath inputFileName4v3 = iConfig.getParameter<edm::FileInPath>("inputFileName4v3");
   edm::FileInPath inputFileName5v3 = iConfig.getParameter<edm::FileInPath>("inputFileName5v3");
-
-  edm::FileInPath inputFileName0v4 = iConfig.getParameter<edm::FileInPath>("inputFileName0v4");
-  edm::FileInPath inputFileName1v4 = iConfig.getParameter<edm::FileInPath>("inputFileName1v4");
-  edm::FileInPath inputFileName2v4 = iConfig.getParameter<edm::FileInPath>("inputFileName2v4");
-  edm::FileInPath inputFileName3v4 = iConfig.getParameter<edm::FileInPath>("inputFileName3v4");
-
-  if(doMVAMIT_){
-    fMVA_ = new ElectronIDMVA();
-    fMVA_->Initialize("BDTG method",
-		      inputFileName0.fullPath().data(),
-		      inputFileName1.fullPath().data(),
-		      inputFileName2.fullPath().data(),
-		      inputFileName3.fullPath().data(),
-		      inputFileName4.fullPath().data(),
-		      inputFileName5.fullPath().data(),                
-		      ElectronIDMVA::kNoIPInfo);
-  }
 
   if(doMVAPOG_){
 
@@ -205,22 +170,6 @@ ElectronsUserEmbedder::ElectronsUserEmbedder(const edm::ParameterSet& iConfig)
     
   }
 
-  if(doMVAIso_){
-
-	fElectronIsoMVA = new EGammaMvaEleEstimator();
-  	vector<string> eleiso_weightfiles;
-	eleiso_weightfiles.push_back(inputFileName0v4.fullPath().data());
-  	eleiso_weightfiles.push_back(inputFileName0v4.fullPath().data());
-  	eleiso_weightfiles.push_back(inputFileName0v4.fullPath().data());
-  	eleiso_weightfiles.push_back(inputFileName0v4.fullPath().data());
-
-	fElectronIsoMVA->initialize("EleIso_BDTG_IsoRings",
-                  		     EGammaMvaEleEstimator::kIsoRings,
-                   		     kTRUE,
-                   		     eleiso_weightfiles);
-
-  }
-
   produces<pat::ElectronCollection>("");
   
 }
@@ -232,12 +181,10 @@ ElectronsUserEmbedder::~ElectronsUserEmbedder()
    // do anything here that needs to be done at desctruction time
    // (e.g. close files, deallocate resources etc.)
 
-  if(doMVAMIT_) delete fMVA_;
   if(doMVAPOG_){
     delete myMVATrig_; //delete fMVADaniele_;
     delete myMVANonTrig_;
   }
-  if(doMVAIso_) delete fElectronIsoMVA;
 
 }
 
@@ -306,85 +253,6 @@ ElectronsUserEmbedder::produce(edm::Event& iEvent, const edm::EventSetup& iSetup
   edm::ESHandle<TransientTrackBuilder> hTransientTrackBuilder;
   iSetup.get<TransientTrackRecord>().get("TransientTrackBuilder",hTransientTrackBuilder);
   const TransientTrackBuilder *transientTrackBuilder = hTransientTrackBuilder.product();
-
-  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-  edm::Handle<reco::VertexCollection> hVertex;
-  iEvent.getByLabel("offlinePrimaryVertices", hVertex);
-  const reco::VertexCollection *pvCol = hVertex.product();
-
-  Handle<double> hRho;
-  edm::InputTag tag("kt6PFJets","rho");
-  iEvent.getByLabel(tag,hRho);
-  double Rho = *hRho;
-
-  Handle<reco::PFCandidateCollection> hPfCandProduct;
-  iEvent.getByLabel("particleFlow", hPfCandProduct);
-  const reco::PFCandidateCollection &inPfCands = *(hPfCandProduct.product());
-
-  reco::MuonCollection IdentifiedMuons;
-
-  InputTag gsfEleLabel(string("gsfElectrons"));
-  Handle<GsfElectronCollection> theEGammaCollection;
-  iEvent.getByLabel(gsfEleLabel,theEGammaCollection);
-  const GsfElectronCollection inElectrons = *(theEGammaCollection.product());
-
-  reco::GsfElectronCollection IdentifiedElectrons;
-
-  for (reco::GsfElectronCollection::const_iterator iE = inElectrons.begin(); 
-       iE != inElectrons.end(); ++iE) {
-
-    double electronTrackZ = 0;
-    if (iE->gsfTrack().isNonnull()) {
-      electronTrackZ = iE->gsfTrack()->dz(pvCol->at(0).position());
-    } else if (iE->closestCtfTrackRef().isNonnull()) {
-      electronTrackZ = iE->closestCtfTrackRef()->dz(pvCol->at(0).position());
-    }    
-    if(fabs(electronTrackZ) > 0.2)  continue;
-
-    
-    if(fabs(iE->superCluster()->eta())<1.479) {     
-      if(iE->pt() > 20) {
-        if(iE->sigmaIetaIeta()       > 0.01)  continue;
-        if(fabs(iE->deltaEtaSuperClusterTrackAtVtx()) > 0.007) continue;
-        if(fabs(iE->deltaPhiSuperClusterTrackAtVtx()) > 0.8)  continue;
-        if(iE->hadronicOverEm()       > 0.15)  continue;    
-      } else {
-        if(iE->sigmaIetaIeta()       > 0.012)  continue;
-        if(fabs(iE->deltaEtaSuperClusterTrackAtVtx()) > 0.007) continue;
-        if(fabs(iE->deltaPhiSuperClusterTrackAtVtx()) > 0.8)  continue;
-        if(iE->hadronicOverEm()       > 0.15) continue;    
-      } 
-    } else {     
-      if(iE->pt() > 20) {
-        if(iE->sigmaIetaIeta()       > 0.03)  continue;
-        if(fabs(iE->deltaEtaSuperClusterTrackAtVtx()) > 0.010) continue;
-        if(fabs(iE->deltaPhiSuperClusterTrackAtVtx()) > 0.8)  continue;
-      } else {
-        if(iE->sigmaIetaIeta()       > 0.032)  continue;
-        if(fabs(iE->deltaEtaSuperClusterTrackAtVtx()) > 0.010) continue;
-        if(fabs(iE->deltaPhiSuperClusterTrackAtVtx()) > 0.8)  continue;
-      }
-    }
-    IdentifiedElectrons.push_back(*iE);
-  }
-
-  if(target == "2011Data"){
-    	target_ = ElectronEffectiveArea::kEleEAData2011;
-  }else if(target == "2012Data"){
-    	target_ = ElectronEffectiveArea::kEleEAData2012;
-  }else if(target == "Fall11MC"){
-    	target_ = ElectronEffectiveArea::kEleEAFall11MC;
-  }else if(target == "Summer11MC"){
-    	target_ = ElectronEffectiveArea::kEleEASummer11MC;
-  } 
-  else{
-    throw cms::Exception("UnknownTarget")
-      << "Bad eff. area option for electrons: " << target
-      << " options are: 2011Data, 2012Data, Fall11MC, Summer11MC" << std::endl;
-  }
-
-  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   
   std::auto_ptr< pat::ElectronCollection > electronsUserEmbeddedColl( new pat::ElectronCollection() ) ;
 
@@ -415,7 +283,8 @@ ElectronsUserEmbedder::produce(edm::Event& iEvent, const edm::EventSetup& iSetup
     double els_conv_dist     = convInfo.dist();
     double els_conv_dcot     = convInfo.dcot();
     //double els_conv_radius = convInfo.radiusOfConversion();
-    math::XYZPoint els_conv_Point = convInfo.pointOfConversion(); 
+    math::XYZPoint els_conv_Point = convInfo.pointOfConversion();
+    std::cout<<els_conv_Point<<std::endl;
     TrackRef els_conv_ctfRef = convInfo.conversionPartnerCtfTk(); 
     GsfTrackRef els_conv_gsfRef = convInfo.conversionPartnerGsfTk();
     //double els_conv_delMissHits = convInfo.deltaMissingHits();
@@ -487,7 +356,6 @@ ElectronsUserEmbedder::produce(edm::Event& iEvent, const edm::EventSetup& iSetup
 	myTrigPresel = 1;
     }
 
-    float mva  = -99;    
     float mva2 = -99; 
     float mva3 = -99;     
     int mvaPreselection = passconversionveto && nHits<=0 && dxyWrtPV<0.02 && dzWrtPV<0.1 &&
@@ -509,35 +377,17 @@ ElectronsUserEmbedder::produce(edm::Event& iEvent, const edm::EventSetup& iSetup
 	&& aElectron.dr03HcalTowerSumEt()/aElectron.pt() < 0.20
 	));
 
-    if(doMVAMIT_)
-      mva = fMVA_->MVAValue(aGsf, lazyTools);
     if(doMVAPOG_){
       //mva2 = fMVADaniele_->mva(*aGsf, vertexes->size());
       mva2 = myMVATrig_->mvaValue( *aGsf , (*vertexes)[0], *transientTrackBuilder, lazyTools, false);
       mva3 = myMVANonTrig_->mvaValue( *aGsf , (*vertexes)[0], *transientTrackBuilder, lazyTools, false);
       //cout << mva2 << endl; 
     }
-    aElectron.addUserFloat("mva",mva);
+
     aElectron.addUserInt("mvaPreselection",mvaPreselection);
     aElectron.addUserInt("isTriggerElectron",myTrigPresel);
     aElectron.addUserFloat("mvaPOGTrig"   ,mva2);
     aElectron.addUserFloat("mvaPOGNonTrig",mva3);
-
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-
-    float isomva = -99;
-
-    if(doMVAIso_){
-  
-		isomva = fElectronIsoMVA->mvaValue(*aGsf, pvCol->at(0), 
-		                           inPfCands, Rho, 
-		                           target_,
-		                           IdentifiedElectrons, IdentifiedMuons);}
-
-    //std::cout<<"MVA "<<isomva<<std::endl;
-    aElectron.addUserFloat("eleIsoMVA",isomva);
-
-    //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     // iso deposits
     //Vetos 2011
